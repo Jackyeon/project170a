@@ -1,0 +1,17 @@
+drop table if exists congressional_table;
+drop table if exists twitter_data;
+
+Create table congressional_table(
+	custom_id int,
+	fullname varchar(255),
+	state varchar(255),
+	twitter varchar(255),
+	facebook varchar(255),
+	position varchar(255)
+);
+
+Create table twitter_data(
+	custom_id int,
+	tweet varchar
+);
+
