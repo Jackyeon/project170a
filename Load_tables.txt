@@ -1,5 +1,6 @@
 drop table if exists congressional_table;
 drop table if exists twitter_data;
+drop table if exists twitter_tokens;
 
 Create table congressional_table(
 	custom_id int,
@@ -12,6 +13,14 @@ Create table congressional_table(
 
 Create table twitter_data(
 	custom_id int,
+	twitter_handle varchar(255),
 	tweet varchar
 );
+
+Create table twitter_tokens(
+	custom_id int,
+	twitter_handle varchar(255),
+	token varchar(255)
+);
+
 
