@@ -1,541 +1,541 @@
-﻿Congress_id,Name,State,Twitter,Facebook,Position
-1,Richard Shelby,Alabama,@SenShelby,https://www.facebook.com/RichardShelby,Senate
-2,Doug Jones,Alabama,@DougJones,https://www.facebook.com/senatordougjones/,Senate
-3,Dan Sullivan,Alaska,@SenDanSullivan,https://www.facebook.com/SenDanSullivan,Senate
-4,Lisa Murkowski,Alaska,@lisamurkowski,https://www.facebook.com/SenLisaMurkowski,Senate
-5,Martha McSally,Arizona,@SenMcSallyAZ,https://www.facebook.com/SenMarthaMcSally/,Senate
-6,Kyrsten Sinema,Arizona,@SenatorSinema,https://www.facebook.com/KyrstenSinema/,Senate
-7,Tom Cotton,Arkansas,@SenTomCotton,https://www.facebook.com/SenatorTomCotton,Senate
-8,John Boozman,Arkansas,@JohnBoozman,https://www.facebook.com/JohnBoozman,Senate
-9,Dianne Feinstein,California,@SenFeinstein,https://www.facebook.com/SenatorFeinstein,Senate
-10,Kamala Harris,California,@KamalaHarris,https://www.facebook.com/KamalaHarris,Senate
-11,Cory Gardner,Colorado,@SenCoryGardner,https://www.facebook.com/SenCoryGardner,Senate
-12,Michael Bennet,Colorado,SenatorBennet,https://www.facebook.com/senatorbennet,Senate
-13,Chris Murphy,Connecticut,@ChrisMurphyCT,https://www.facebook.com/ChrisMurphyCT,Senate
-14,Richard Blumenthal,Connecticut,@SenBlumenthal,https://www.facebook.com/SenBlumenthal,Senate
-15,Chris Coons,Delaware,@SenCoonsOffice,https://www.facebook.com/chriscoons,Senate
-16,Thomas Carper,Delaware,@SenatorCarper,https://www.facebook.com/tomcarper,Senate
-17,Marco Rubio,Florida,@marcorubio,https://www.facebook.com/MarcoRubio,Senate
-18,Rick Scott,Florida,@ScottforFlorida,https://www.facebook.com/RickScottSenOffice/,Senate
-19,David Perdue,Georgia,@sendavidperdue,https://www.facebook.com/perduesenate,Senate
-20,Johnny Isakson,Georgia,@SenatorIsakson,https://www.facebook.com/isakson,Senate
-21,Brian Schatz,Hawaii,@SenBrianSchatz,https://www.facebook.com/BrianSchatz,Senate
-22,Mazie Hirono,Hawaii,@maziehirono,https://www.facebook.com/mazie.hirono,Senate
-23,Jim Risch,Idaho,@SenatorRisch,https://www.facebook.com/pages/Jim-Risch/107379405951426,Senate
-24,Mike Crapo,Idaho,@MikeCrapo,https://www.facebook.com/mikecrapo,Senate
-25,Tammy Duckworth,Illinois,SenDuckworth,https://www.facebook.com/SenDuckworth,Senate
-26,Richard Durbin,Illinois,@SenatorDurbin,https://www.facebook.com/SenatorDurbin,Senate
-27,Mike Braun,Indiana,@Braun4Indiana,https://www.facebook.com/mikebraunforindiana/,Senate
-28,Todd Young,Indiana,SenToddYoung,https://www.facebook.com/RepToddYoung,Senate
-29,Chuck Grassley,Iowa,@ChuckGrassley,https://www.facebook.com/grassley,Senate
-30,Joni Ernst,Iowa,@SenJoniErnst,https://www.facebook.com/senjoniernst,Senate
-31,Pat Roberts,Kansas,@SenPatRoberts,https://www.facebook.com/SenPatRoberts,Senate
-32,Jerry Moran,Kansas,@JerryMoran,https://www.facebook.com/jerrymoran,Senate
-33,Rand Paul,Kentucky,@RandPaul,https://www.facebook.com/SenatorRandPaul,Senate
-34,Mitch McConnell,Kentucky,@McConnellPress,https://www.facebook.com/mitchmcconnell,Senate
-35,"Kennedy, John",Louisiana,@JohnKennedyLA,https://www.facebook.com/JohnKennedyLouisiana,Senate
-36,Bill Cassidy,Louisiana,@BillCassidy,https://www.facebook.com/billcassidy,Senate
-37,Angus King,Maine,@SenAngusKing,https://www.facebook.com/SenatorAngusSKingJr,Senate
-38,Susan Collins,Maine,@SenatorCollins,https://www.facebook.com/susancollins,Senate
-39,Chris Van Hollen,Maryland,@ChrisVanHollen,https://www.facebook.com/ChrisVanHollen,Senate
-40,Benjamin Cardin,Maryland,@SenatorCardin,https://www.facebook.com/senatorbencardin,Senate
-41,Elizabeth Warren,Massachusetts,@SenWarren,https://www.facebook.com/senatorelizabethwarren,Senate
-42,Edward Markey,Massachusetts,@SenMarkey,https://www.facebook.com/EdJMarkey,Senate
-43,Debbie Stabenow,Michigan,@SenStabenow,https://www.facebook.com/stabenow,Senate
-44,Gary Peters,Michigan,@SenGaryPeters,https://www.facebook.com/SenGaryPeters,Senate
-45,Amy Klobuchar,Minnesota,@amyklobuchar,https://www.facebook.com/amyklobuchar,Senate
-46,Tina Smith,Minnesota,@SenTinaSmith,https://www.facebook.com/USSenTinaSmith/,Senate
-47,Roger Wicker,Mississippi,@SenatorWicker,https://www.facebook.com/wicker,Senate
-48,Cindy Hyde-Smith,Mississippi,@SenHydeSmith,https://www.facebook.com/CindyHydeSmith2018/,Senate
-49,Josh Hawley,Missouri,@HawleyMO,https://www.facebook.com/SenatorHawley/,Senate
-50,Roy Blunt,Missouri,@RoyBlunt,https://www.facebook.com/SenatorBlunt,Senate
-51,Jon Tester,Montana,@SenatorTester,https://www.facebook.com/senatortester,Senate
-52,Steve Daines,Montana,@SteveDaines,https://www.facebook.com/SteveDainesMT,Senate
-53,Ben Sasse,Nebraska,@SenSasse,https://www.facebook.com/SenatorSasse,Senate
-54,Deb Fischer,Nebraska,@SenatorFischer,https://www.facebook.com/senatordebfischer,Senate
-55,Jacky Rosen,Nevada,@SenJackyRosen,https://www.facebook.com/SenJackyRosen/,Senate
-56,Catherine Cortez Mastro,Nevada,@CatherineForNV,https://www.facebook.com/catherinecortezmastro,Senate
-57,Jeanne Shaheen,New Hampshire,@SenatorShaheen,https://www.facebook.com/SenatorShaheen,Senate
-58,Maggie Hassan,New Hampshire,@Maggie_Hassan,https://www.facebook.com/SenatorHassan,Senate
-59,Robert Menendez,New Jersey,@SenatorMenendez,https://www.facebook.com/senatormenendez,Senate
-60,Cory Booker,New Jersey,@CoryBooker,https://www.facebook.com/corybooker,Senate
-61,Tom Udall,New Mexico,@SenatorTomUdall,https://www.facebook.com/senatortomudall,Senate
-62,Martin Heinrich,New Mexico,@MartinHeinrich,https://www.facebook.com/MartinHeinrich,Senate
-63,Chuck Schumer,New York,@SenSchumer,https://www.facebook.com/chuckschumer,Senate
-64,Kirsten Gillibrand,New York,@SenGillibrand,https://www.facebook.com/KirstenGillibrand,Senate
-65,Thom Tillis,North Carolina,@SenThomTillis,https://www.facebook.com/SenatorThomTillis,Senate
-66,Richard Burr,North Carolina,@SenatorBurr,https://www.facebook.com/SenatorRichardBurr,Senate
-67,John Hoeven,North Dakota,@SenJohnHoeven,https://www.facebook.com/SenatorJohnHoeven,Senate
-68,Kevin Cramer,North Dakota,@SenKevinCramer,https://www.facebook.com/SenatorKevinCramer/,Senate
-69,Rob Portman,Ohio,@senrobportman,https://www.facebook.com/robportman,Senate
-70,Sherrod Brown,Ohio,@SenSherrodBrown,https://www.facebook.com/sherrod,Senate
-71,James Lankford,Oklahoma,@SenatorLankford,https://www.facebook.com/SenatorLankford,Senate
-72,Jim Inhofe,Oklahoma,@InhofePress,https://www.facebook.com/jiminhofe,Senate
-73,Ron Wyden,Oregon,@RonWyden,https://www.facebook.com/wyden,Senate
-74,Jeff Merkley,Oregon,@SenJeffMerkley,https://www.facebook.com/jeffmerkley,Senate
-75,Patrick Toomey,Pennsylvania,@SenToomey,https://www.facebook.com/senatortoomey,Senate
-76,"Bob Casey, Jr.",Pennsylvania,@SenBobCasey,https://www.facebook.com/SenatorBobCasey,Senate
-77,Sheldon Whitehouse,Rhode Island,@SenWhitehouse,https://www.facebook.com/SenatorWhitehouse,Senate
-78,Jack Reed,Rhode Island,@SenJackReed,https://www.facebook.com/SenJackReed,Senate
-79,Tim Scott,South Carolina,@SenatorTimScott,https://www.facebook.com/SenatorTimScott,Senate
-80,Lindsey Graham,South Carolina,@GrahamBlog,https://www.facebook.com/USSenatorLindseyGraham,Senate
-81,John Thune,South Dakota,@SenJohnThune,https://www.facebook.com/johnthune,Senate
-82,Mike Rounds,South Dakota,@SenatorRounds,https://www.facebook.com/SenatorMikeRounds,Senate
-83,Marsha Blackburn,Tennessee,@MarshaBlackburn,https://www.facebook.com/marshablackburn/,Senate
-84,Lamar Alexander,Tennessee,@SenAlexander,https://www.facebook.com/senatorlamaralexander,Senate
-85,Ted Cruz,Texas,@SenTedCruz,https://www.facebook.com/SenatorTedCruz,Senate
-86,John Cornyn,Texas,@JohnCornyn,https://www.facebook.com/Sen.JohnCornyn,Senate
-87,Mike Lee,Utah,@SenMikeLee,https://www.facebook.com/senatormikelee,Senate
-88,Mitt Romney,Utah,@SenatorRomney,https://www.facebook.com/senatorromney/,Senate
-89,Bernie Sanders,Vermont,@SenSanders,https://www.facebook.com/senatorsanders,Senate
-90,Patrick Leahy,Vermont,@SenatorLeahy,https://www.facebook.com/SenatorPatrickLeahy,Senate
-91,Mark Warner,Virginia,@MarkWarner,https://www.facebook.com/MarkRWarner,Senate
-92,Tim Kaine,Virginia,@timkaine,https://www.facebook.com/SenatorKaine,Senate
-93,Patty Murray,Washington,@PattyMurray,https://www.facebook.com/pattymurray,Senate
-94,Maria Cantwell,Washington,@SenMikeLee,https://www.facebook.com/senatorcantwell,Senate
-95,Joe Manchin,West Virginia,@Sen_JoeManchin,https://www.facebook.com/JoeManchinIII,Senate
-96,Shelley Moore Capito,West Virginia,@SenCapito,https://www.facebook.com/senshelley,Senate
-97,Ron Johnson,Wisconsin,@SenRonJohnson,https://www.facebook.com/senronjohnson,Senate
-98,Tammy Baldwin,Wisconsin,@SenatorBaldwin,https://www.facebook.com/senatortammybaldwin,Senate
-99,Mike Enzi,Wyoming,@SenatorEnzi,https://www.facebook.com/mikeenzi,Senate
-100,John Barrasso,Wyoming,@SenJohnBarrasso,https://www.facebook.com/johnbarrasso,Senate
-101,"Byrne, Bradley",Alabama 1st District,@RepByrne,https://www.facebook.com/RepByrne,House
-102,"Roby, Martha",Alabama 2nd District,@RepMarthaRoby,https://www.facebook.com/Representative.Martha.Roby/,House
-103,"Rogers, Mike",Alabama 3rd District,@RepMikeRogersAL,https://www.facebook.com/pages/Mike-Rogers/6406874733?sk=wall,House
-104,"Aderholt, Robert",Alabama 4th District,@Robert_Aderholt,https://www.facebook.com/RobertAderholt,House
-105,"Brooks, Mo",Alabama 5th District,@RepMoBrooks,https://www.facebook.com/RepMoBrooks,House
-106,"Palmer, Gary",Alabama 6th District,@USRepGaryPalmer,https://www.facebook.com/USRepresentativeGaryPalmer,House
-107,"Sewell, Terri A.",Alabama 7th District,@RepTerriSewell,https://www.facebook.com/RepSewell,House
-108,"Young, Don",Alaska At-Large,@repdonyoung,https://www.facebook.com/RepDonYoung,House
-109,"Radewagen, Amata",American Samoa At-Large,@RepAmata,https://www.facebook.com/congresswomanaumuaamata,House
-110,"O’Halleran, Tom",Arizona 1st District,@TomOHalleran,https://www.facebook.com/OhalleranforAZ,House
-111,"Kirkpatrick, Ann",Arizona 2nd District,@RepKirkPatrick,https://www.facebook.com/RepAnnKirkpatrick/,House
-112,"Grijalva, Raul",Arizona 3rd District,@RepRaulGrijalva,https://www.facebook.com/Rep.Grijalva,House
-113,"Gosar, Paul A.",Arizona 4th District,@RepGosar,https://www.facebook.com/repgosar,House
-114,"Biggs, Andy",Arizona 5th District,@AndyBiggs4AZ,https://www.facebook.com/biggsforcongress,House
-115,"Schweikert, David",Arizona 6th District,@RepDavid,https://www.facebook.com/repdavidschweikert,House
-116,"Gallego, Ruben",Arizona 7th District,@RepRubenGallego,https://www.facebook.com/RepRubenGallego,House
-117,"Lesko, Debbie",Arizona 8th District,@RepDLesko,https://www.facebook.com/RepDebbieLesko/,House
-118,"Stanton, Greg",Arizona 9th District,@RepGregStanton,https://www.facebook.com/repgregstanton/,House
-119,"Crawford, Rick",Arkansas 1st District,@RepRickCrawford,https://www.facebook.com/RepRickCrawford,House
-120,"Hill, French",Arkansas 2nd District,@RepFrenchHill,https://www.facebook.com/RepFrenchHill,House
-121,"Womack, Steve",Arkansas 3rd District,@rep_stevewomack,https://www.facebook.com/RepSteveWomack?v=wall,House
-122,"Westerman, Bruce",Arkansas 4th District,@RepWesterman,https://www.facebook.com/RepWesterman,House
-123,"Harder, Josh",California 10th District,@RepJoshHarder,https://www.facebook.com/RepJoshHarder/,House
-124,"DeSaulnier, Mark",California 11th District,@RepDeSaulnier,https://www.facebook.com/RepMarkDeSaulnier,House
-125,"Pelosi, Nancy",California 12th District,SpeakerPelosi,https://www.facebook.com/NancyPelosi,House
-126,"Lee, Barbara",California 13th District,@RepBarbaraLee,https://www.facebook.com/RepBarbaraLee,House
-127,"Speier, Jackie",California 14th District,@RepSpeier,https://www.facebook.com/JackieSpeier,House
-128,"Swalwell, Eric",California 15th District,@RepSwalwell,https://www.facebook.com/CongressmanEricSwalwell,House
-129,"Costa, Jim",California 16th District,@RepJimCosta,https://www.facebook.com/RepJimCosta,House
-130,"Khanna, Ro",California 17th District,RoKhanna,https://www.facebook.com/Ro_Khanna,House
-131,"Eshoo, Anna G.",California 18th District,@RepAnnaEshoo,https://www.facebook.com/RepAnnaEshoo,House
-132,"Lofgren, Zoe",California 19th District,@RepZoeLofgren,https://www.facebook.com/zoelofgren,House
-133,"LaMalfa, Doug",California 1st District,@RepLaMalfa,https://www.facebook.com/RepLaMalfa,House
-134,"Panetta, Jimmy",California 20th District,@JimmyPanetta,https://www.facebook.com/JimmyPanettaForCongress,House
-135,"Cox, TJ",California 21st District,@RepTJCox,https://www.facebook.com/RepTJCox/,House
-136,"Nunes, Devin",California 22nd District,DevinNunes,https://www.facebook.com/Devin-Nunes-376470350795,House
-137,"McCarthy, Kevin",California 23rd District,@GOPLeader,https://www.facebook.com/CongressmanKevinMcCarthy,House
-138,"Carbajal, Salud",California 24th District,@CarbajalSalud,https://www.facebook.com/RepSaludCarbajal,House
-139,"Hill, Katie",California 25th District,@RepKatieHill,https://www.facebook.com/RepKatieHill/,House
-140,"Brownley, Julia",California 26th District,RepBrownley,https://www.facebook.com/RepJuliaBrownley,House
-141,"Chu, Judy",California 27th District,@RepJudyChu,https://www.facebook.com/repjudychu,House
-142,"Schiff, Adam",California 28th District,@RepAdamSchiff,https://www.facebook.com/RepAdamSchiff,House
-143,"Cárdenas, Tony",California 29th District,@RepCardenas,https://www.facebook.com/repcardenas,House
-144,"Huffman, Jared",California 2nd District,@RepHuffman,https://www.facebook.com/RepHuffman,House
-145,"Sherman, Brad",California 30th District,@BradSherman,https://www.facebook.com/CongressmanBradSherman,House
-146,"Aguilar, Pete",California 31st District,@RepPeteAguilar,https://www.facebook.com/reppeteaguilar,House
-147,"Napolitano, Grace",California 32nd District,@gracenapolitano,https://www.facebook.com/RepGraceNapolitano,House
-148,"Lieu, Ted",California 33rd District,@RepTedLieu,https://www.facebook.com/RepTedLieu,House
-149,"Gomez, Jimmy",California 34th District,@RepJimmyGomez,https://www.facebook.com/RepJimmyGomez/,House
-150,"Torres, Norma",California 35th District,@NormaJTorres,https://www.facebook.com/RepNormaTorres,House
-151,"Ruiz, Raul",California 36th District,@CongressmanRuiz,https://www.facebook.com/CongressmanRaulRuizMD,House
-152,"Bass, Karen",California 37th District,@RepKarenBass,https://www.facebook.com/RepKarenBass,House
-153,"Sánchez, Linda",California 38th District,@RepLindaSanchez,https://www.facebook.com/CongresswomanLindaSanchez,House
-154,"Cisneros, Gilbert Ray Jr.",California 39th District,@RepGilCisneros,https://www.facebook.com/RepGilCisneros,House
-155,"Garamendi, John",California 3rd District,@RepGaramendi,https://www.facebook.com/repgaramendi,House
-156,"Roybal-Allard, Lucille",California 40th District,@RepRoybalAllard,https://www.facebook.com/RepRoybalAllard,House
-157,"Takano, Mark",California 41st District,@RepMarkTakano,https://www.facebook.com/RepMarkTakano,House
-158,"Calvert, Ken",California 42nd District,@KenCalvert,https://www.facebook.com/CalvertforCongress,House
-159,"Waters, Maxine",California 43rd District,@MaxineWaters,https://www.facebook.com/MaxineWaters,House
-160,"Barragan, Nanette",California 44th District,@Nanette4CA,https://www.facebook.com/NanetteBarraganforCongress,House
-161,"Porter, Katie",California 45th District,@RepKatiePorter,https://www.facebook.com/repkatieporter/,House
-162,"Correa, Lou",California 46th Division,RepLouCorrea,https://www.facebook.com/LouCorreaCA,House
-163,"Lowenthal, Alan",California 47th District,@RepLowenthal,https://www.facebook.com/RepLowenthal,House
-164,"Rouda, Harley",California 48th District,@RepHarley,https://www.facebook.com/RepHarley,House
-165,"Levin, Mike",California 49th District,@RepMikeLevin,https://www.facebook.com/RepMikeLevin,House
-166,"McClintock, Tom",California 4th District,@RepMcClintock,https://www.facebook.com/Congressman-Tom-McClintock-81125319109,House
-167,"Hunter, Duncan D.",California 50th District,@Rep_Hunter,https://www.facebook.com/DuncanHunter,House
-168,"Vargas, Juan",California 51st District,@RepJuanVargas,https://www.facebook.com/RepJuanVargas,House
-169,"Peters, Scott",California 52nd District,@RepScottPeters,https://www.facebook.com/scottpeterssandiego,House
-170,"Davis, Susan",California 53rd District,@RepSusanDavis,https://www.facebook.com/RepSusanDavis,House
-171,"Thompson, Mike",California 5th District,@RepThompson,https://www.facebook.com/RepMikeThompson,House
-172,"Matsui, Doris O.",California 6th District,@DorisMatsui,https://www.facebook.com/doris.matsui,House
-173,"Bera, Ami",California 7th District,@RepBera,https://www.facebook.com/RepAmiBera,House
-174,"Cook, Paul",California 8th District,@RepPaulCook,https://www.facebook.com/RepPaulCook,House
-175,"McNerney, Jerry",California 9th District,@RepMcNerney,https://www.facebook.com/jerrymcnerney,House
-176,"DeGette, Diana",Colorado 1st District,@RepDianaDeGette,https://www.facebook.com/DianaDeGette,House
-177,"Neguse, Joe",Colorado 2nd District,@RepJoeNeguse,https://www.facebook.com/RepJoeNeguse/,House
-178,"Tipton, Scott",Colorado 3rd District,@RepTipton,https://www.facebook.com/CongressmanScottTipton,House
-179,"Buck, Ken",Colorado 4th District,@RepKenBuck,https://www.facebook.com/repkenbuck,House
-180,"Lamborn, Doug",Colorado 5th District,@RepDLamborn,https://www.facebook.com/CongressmanDougLamborn,House
-181,"Crow, Jason",Colorado 6th District,@RepJasonCrow,https://www.facebook.com/RepJasonCrow,House
-182,"Perlmutter, Ed",Colorado 7th District,@RepPerlmutter,https://www.facebook.com/RepPerlmutter?v=info&tab=page_info,House
-183,"Larson, John B.",Connecticut 1st District,@RepJohnLarson,https://www.facebook.com/RepJohnLarson,House
-184,"Courtney, Joe",Connecticut 2nd District,@RepJoeCourtney,https://www.facebook.com/joecourtney,House
-185,"DeLauro, Rosa L.",Connecticut 3rd District,@rosadelauro,https://www.facebook.com/CongresswomanRosaDeLauro?v=wall,House
-186,"Himes, Jim",Connecticut 4th District,@jahimes,https://www.facebook.com/CongressmanJimHimes,House
-187,"Hayes, Jahana",Connecticut 5th District,@RepJahanaHayes,https://www.facebook.com/RepJahanaHayes,House
-188,"Blunt Rochester, Lisa",Delaware At-Large,@LisaBRochester,https://www.facebook.com/LisaBluntRochester,House
-189,"Norton, Eleanor Holmes",District of Columbia At-Large,@EleanorNorton,https://www.facebook.com/CongresswomanNorton?sid=86d3965b+ff3b64843d69f30c5e40e361&ref=s,House
-190,"Demings, Val",Florida 10th District,@Val_Demings,https://www.facebook.com/Val.Demings,House
-191,"Webster, Daniel",Florida 11th District,@RepWebster,https://www.facebook.com/RepWebster,House
-192,"Bilirakis, Gus M.",Florida 12th District,@RepGusBilirakis,https://www.facebook.com/GusBilirakis,House
-193,"Crist, Charlie",Florida 13th District,@CharlieCrist,https://www.facebook.com/CharlieCrist,House
-194,"Castor, Kathy",Florida 14th District,@USRepKCastor,https://www.facebook.com/USRepKathyCastor,House
-195,"Spano, Ross",Florida 15th District,@RepRossSpano,https://www.facebook.com/RepRossSpano,House
-196,"Buchanan, Vern",Florida 16th District,@VernBuchanan,https://www.facebook.com/CongressmanBuchanan,House
-197,"Steube, W. Gregory",Florida 17th District,@RepGregSteube,https://www.facebook.com/RepGregSteube/,House
-198,"Mast, Brian",Florida 18th District,@BrianMastFL,https://www.facebook.com/BrianMastFL,House
-199,"Rooney, Francis",Florida 19th District,@FrancisRooney,https://www.facebook.com/Francis-Rooney-1630804517180066/,House
-200,"Gaetz, Matt",Florida 1st District,@MattGaetz,https://www.facebook.com/RepresentativeMattGaetz,House
-201,"Hastings, Alcee L.",Florida 20th District,@RepHastingsFL,https://www.facebook.com/Congressman-Alcee-L-Hastings-95696782238,House
-202,"Frankel, Lois",Florida 21st District,@RepLoisFrankel,https://www.facebook.com/RepLoisFrankel,House
-203,"Deutch, Ted",Florida 22nd District,@RepTedDeutch,https://www.facebook.com/CongressmanTedDeutch,House
-204,"Wasserman Schultz, Debbie",Florida 23rd District,@RepDWStweets,https://www.facebook.com/RepDWS,House
-205,"Wilson, Frederica",Florida 24th District,@RepWilson,https://www.facebook.com/RepWilson,House
-206,"Diaz-Balart, Mario",Florida 25th District,@MarioDB,https://www.facebook.com/mdiazbalart,House
-207,"Mucarsel-Powell, Debbie",Florida 26th District,@RepDMP,https://www.facebook.com/RepDMP,House
-208,"Shalala, Donna E.",Florida 27th District,@RepShalala,https://www.facebook.com/RepShalala/,House
-209,"Dunn, Neal",Florida 2nd District,DrNealDunnFL2,https://www.facebook.com/NealDunnForCongress,House
-210,"Yoho, Ted",Florida 3rd District,@RepTedYoho,https://www.facebook.com/CongressmanTedYoho,House
-211,"Rutherford, John",Florida 4th District,@JRutherfordFL,https://www.facebook.com/JohnRutherfordFL,House
-212,"Lawson, Al",Florida 5th District,@AlLawsonJr,https://www.facebook.com/AlLawsonJr,House
-213,"Waltz, Michael",Florida 6th District,@RepMichaelWaltz,https://www.facebook.com/repmichaelwaltz/,House
-214,"Murphy, Stephanie",Florida 7th District,@SMurphyCongress,https://www.facebook.com/SMurphyCongress,House
-215,"Posey, Bill",Florida 8th District,@congbillposey,https://www.facebook.com/bill.posey15,House
-216,"Soto, Darren",Florida 9th District,RepDarrenSoto,https://www.facebook.com/DarrenSotoFlorida,House
-217,"Hice, Jody",Georgia 10th District,@CongressmanHice,https://www.facebook.com/CongressmanJodyHice,House
-218,"Loudermilk, Barry",Georgia 11th District,@RepLoudermilk,https://www.facebook.com/RepLoudermilk,House
-219,"Allen, Rick",Georgia 12th District,@RepRickAllen,https://www.facebook.com/CongressmanRickAllen,House
-220,"Scott, David",Georgia 13th District,@repdavidscott,https://www.facebook.com/RepDavidScott,House
-221,"Graves, Tom",Georgia 14th District,@RepTomGraves,https://www.facebook.com/reptomgraves?ref=ts,House
-222,"Carter, Buddy",Georgia 1st District,@RepBuddyCarter,https://www.facebook.com/CongressmanBuddyCarter,House
-223,"Bishop Jr., Sanford D.",Georgia 2nd District,@SanfordBishop,https://www.facebook.com/sanfordbishop,House
-224,"Ferguson, Drew",Georgia 3rd District,@DrewFergusonGA,https://www.facebook.com/DrewFergusonforCongress,House
-225,"Johnson, Henry C. “Hank” Jr.",Georgia 4th District,@RepHankJohnson,https://www.facebook.com/Congressman-Hank-Johnson-115356957005,House
-226,"Lewis, John",Georgia 5th District,@repjohnlewis,https://www.facebook.com/RepJohnLewis,House
-227,"McBath, Lucy",Georgia 6th District,@RepLucyMcBath,https://www.facebook.com/replucymcbath,House
-228,"Woodall, Robert",Georgia 7th District,@RepRobWoodall,https://www.facebook.com/RepRobWoodall,House
-229,"Scott, Austin",Georgia 8th District,@AustinScottGA08,https://www.facebook.com/RepAustinScott,House
-230,"Collins, Doug",Georgia 9th District,@RepDougCollins,https://www.facebook.com/RepresentativeDougCollins,House
-231,"San Nicolas, Michael F.Q.",Guam At-Large,,https://www.facebook.com/CongressmanMichaelF.Q.SanNicolas,House
-232,"Case, Ed",Hawaii 1st District,@RepEdCase,https://www.facebook.com/RepEdCase,House
-233,"Gabbard, Tulsi",Hawaii 2nd District,@TulsiPress,https://www.facebook.com/RepTulsiGabbard,House
-234,"Fulcher, Russ",Idaho 1st District,@RepRussFulcher,https://www.facebook.com/RepRussFulcher,House
-235,"Simpson, Mike",Idaho 2nd District,@CongMikeSimpson,https://www.facebook.com/Mike-Simpson-96007744606,House
-236,"Schneider, Bradley",Illinois 10th District,@RepSchneider,https://www.facebook.com/BradSchneider,House
-237,"Foster, Bill",Illinois 11th District,@RepBillFoster,https://www.facebook.com/CongressmanBillFoster,House
-238,"Bost, Mike",Illinois 12th District,@RepBost,https://www.facebook.com/RepBost,House
-239,"Davis, Rodney",Illinois 13th District,@RodneyDavis,https://www.facebook.com/RepRodneyDavis?_rdr=p,House
-240,"Underwood, Lauren",Illinois 14th District,@RepUnderwood,https://www.facebook.com/repunderwood/,House
-241,"Shimkus, John",Illinois 15th District,@RepShimkus,https://www.facebook.com/repshimkus,House
-242,"Kinzinger, Adam",Illinois 16th District,@RepKinzinger,https://www.facebook.com/RepKinzinger,House
-243,"Bustos, Cheri",Illinois 17th District,@RepCheri,https://www.facebook.com/RepCheri,House
-244,"LaHood,Darin",Illinois 18th District,@ElectLaHood,https://www.facebook.com/darinlahood,House
-245,"Rush, Bobby L.",Illinois 1st District,@RepBobbyRush,https://www.facebook.com/congressmanbobbyrush,House
-246,"Kelly, Robin",Illinois 2nd District,@RepRobinKelly,https://www.facebook.com/reprobinkelly,House
-247,"Lipinski, Daniel",Illinois 3rd District,@RepLipinski,https://www.facebook.com/repdanlipinski,House
-248,"Garcia, Jesus “Chuy”",Illinois 4th District,@RepChuyGarcia,https://www.facebook.com/RepChuyGarcia/,House
-249,"Quigley, Mike",Illinois 5th District,@RepMikeQuigley,https://www.facebook.com/repmikequigley,House
-250,"Casten, Sean",Illinois 6th District,@RepCasten,https://www.facebook.com/RepSeanCasten/,House
-251,"Davis, Danny K.",Illinois 7th District,@RepDannyDavis,https://www.facebook.com/CongressmanDKDavis,House
-252,"Krishnamoorthi, Raja",Illinois 8th District,@RajaForCongress,https://www.facebook.com/RajaForCongress,House
-253,"Schakowsky, Jan",Illinois 9th District,@janschakowsky,https://www.facebook.com/janschakowsky,House
-254,"Visclosky, Peter",Indiana 1st District,@RepVisclosky,https://www.facebook.com/repvisclosky,House
-255,"Walorski, Jackie",Indiana 2nd District,@RepWalorski,https://www.facebook.com/RepJackieWalorski,House
-256,"Banks, Jim",Indiana 3rd District,@Jim_Banks,https://www.facebook.com/JimBanksforCongress,House
-257,"Baird, James",Indiana 4th District,@RepJimBaird,https://www.facebook.com/RepJimBaird,House
-258,"Brooks, Susan W.",Indiana 5th District,@SusanWBrooks,https://www.facebook.com/CongresswomanSusanWBrooks,House
-259,"Pence, Greg",Indiana 6th District,@RepGregPence,https://www.facebook.com/RepGregPence,House
-260,"Carson, André",Indiana 7th District,@RepAndreCarson,https://www.facebook.com/CongressmanAndreCarson,House
-261,"Bucshon, Larry",Indiana 8th District,@RepLarryBucshon,https://www.facebook.com/RepLarryBucshon,House
-262,"Hollingsworth, Trey",Indiana 9th District,@VoteForTrey,https://www.facebook.com/VoteTrey,House
-263,"Finkenauer, Abby",Iowa 1st District,@RepFinkenauer,https://www.facebook.com/RepAbbyFinkenauer,House
-264,"Loebsack, David",Iowa 2nd District,@daveloebsack,https://www.facebook.com/DaveLoebsack,House
-265,"Axne, Cynthia",Iowa 3rd District,@RepCindyAxne,https://www.facebook.com/RepCindyAxne,House
-266,"King, Steve",Iowa 4th District,@SteveKingIA,https://www.facebook.com/SteveKingIA,House
-267,"Marshall, Roger",Kansas 1st District,@RogerMarshallMD,https://www.facebook.com/DrRogerMarshall,House
-268,"Watkins, Steve",Kansas 2nd District,@Rep_Watkins,https://www.facebook.com/CongressmanSteveWatkins,House
-269,"Davids, Sharice",Kansas 3rd District,@RepDavids,https://www.facebook.com/RepDavids,House
-270,"Estes, Ron",Kansas 4th District,@RepRonEstes,https://www.facebook.com/RepRonEstes,House
-271,"Comer, James",Kentucky 1st District,@KYComer,https://www.facebook.com/CongressmanJamesComer,House
-272,"Guthrie, S. Brett",Kentucky 2nd District,@RepGuthrie,https://www.facebook.com/CongressmanGuthrie,House
-273,"Yarmuth, John A.",Kentucky 3rd District,@RepJohnYarmuth,https://www.facebook.com/Congressman-John-Yarmuth-KY-3-214258646163,House
-274,"Massie, Thomas",Kentucky 4th District,@RepThomasMassie,https://www.facebook.com/RepThomasMassie,House
-275,"Rogers, Harold",Kentucky 5th District,@RepHalRogers,https://www.facebook.com/CongressmanHalRogers,House
-276,"Barr, Andy",Kentucky 6th District,@RepAndyBarr,https://www.facebook.com/RepAndyBarr,House
-277,"Scalise, Steve",Louisiana 1st District,@SteveScalise,https://www.facebook.com/RepSteveScalise,House
-278,"Richmond, Cedric",Louisiana 2nd District,@RepRichmond,https://www.facebook.com/RepRichmond,House
-279,"Higgins, Clay",Louisiana 3rd District,RepClayHiggins,https://www.facebook.com/CaptClayHiggins,House
-280,"Johnson, Mike",Louisiana 4th District,@RepMikeJohnson,https://www.facebook.com/MikeJohnsonLouisiana,House
-281,"Abraham, Ralph",Louisiana 5th District,@RepAbraham,https://www.facebook.com/CongressmanRalphAbraham,House
-282,"Graves, Garret",Louisiana 6th District,@RepGarretGraves,https://www.facebook.com/CongressmanGarretGraves,House
-283,"Pingree, Chellie",Maine 1st District,@chelliepingree,https://www.facebook.com/ChelliePingree,House
-284,"Golden, Jared",Maine 2nd District,@RepGolden,https://www.facebook.com/RepGolden,House
-285,"Harris, Andy",Maryland 1st District,@RepAndyHarrisMD,https://www.facebook.com/AndyHarrisMD,House
-286,"Ruppersberger, C. A. Dutch",Maryland 2nd District,@Call_Me_Dutch,https://www.facebook.com/DutchRupp,House
-287,"Sarbanes, John P.",Maryland 3rd District,@RepSarbanes,https://www.facebook.com/RepSarbanes,House
-288,"Brown, Anthony",Maryland 4th District,RepAnthonyBrown,https://www.facebook.com/AnthonyBrown.Maryland,House
-289,"Hoyer, Steny H.",Maryland 5th District,LeaderHoyer,https://www.facebook.com/WhipHoyer,House
-290,"Trone, David",Maryland 6th District,@RepDavidTrone,https://www.facebook.com/repdavidtrone/,House
-291,"Cummings, Elijah",Maryland 7th District,@RepCummings,https://www.facebook.com/elijahcummings,House
-292,"Raskin, Jamie",Maryland 8th District,@Jamie_Raskin,https://www.facebook.com/Raskin.Jamie,House
-293,"Neal, Richard E.",Massachusetts 1st District,@RepRichardNeal,https://www.facebook.com/Congressman-Richard-Neal-325642654132598,House
-294,"McGovern, James",Massachusetts 2nd District,@RepMcGovern,https://www.facebook.com/RepJimMcGovern,House
-295,"Trahan, Lori",Massachusetts 3rd District,@RepLoriTrahan,https://www.facebook.com/RepLoriTrahan/,House
-296,"Kennedy III, Joseph P.",Massachusetts 4th District,@RepJoeKennedy,https://www.facebook.com/CongressmanJoeKennedyIII,House
-297,"Clark, Katherine",Massachusetts 5th District,@RepKClark,https://www.facebook.com/CongresswomanClark?_rdr=p,House
-298,"Moulton, Seth",Massachusetts 6th District,@teammoulton,https://www.facebook.com/CongressmanSethMoulton,House
-299,"Pressley, Ayanna",Massachusetts 7th District,@RepPressley,https://www.facebook.com/RepAyannaPressley,House
-300,"Lynch, Stephen F.",Massachusetts 8th District,@RepStephenLynch,https://www.facebook.com/repstephenlynch,House
-301,"Keating, William",Massachusetts 9th District,@USRepKeating,https://www.facebook.com/Congressman.Keating,House
-302,"Mitchell, Paul",Michigan 10th District,RepPaulMitchell,https://www.facebook.com/PaulMitchellforUS,House
-303,"Stevens, Haley",Michigan 11th District,@RepHaleyStevens,https://www.facebook.com/RepHaleyStevens,House
-304,"Dingell, Debbie",Michigan 12th District,@RepDebDingell,https://www.facebook.com/RepDebbieDingell,House
-305,"Tlaib, Rashida",Michigan 13th District,@RepRashida,https://www.facebook.com/RepRashida,House
-306,"Lawrence, Brenda",Michigan 14th District,@RepLawrence,https://www.facebook.com/Rep-Brenda-Lawrence-395759603917487,House
-307,"Bergman, Jack",Michigan 1st District,@JackBergman_MI1,https://www.facebook.com/BergmanforCongress,House
-308,"Huizenga, Bill",Michigan 2nd District,@RepHuizenga,https://www.facebook.com/rephuizenga,House
-309,"Amash, Justin",Michigan 3rd District,@justinamash,https://www.facebook.com/repjustinamash,House
-310,"Moolenaar, John",Michigan 4th District,@RepMoolenaar,https://www.facebook.com/RepMoolenaar,House
-311,"Kildee, Daniel",Michigan 5th District,@RepDanKildee,https://www.facebook.com/RepDanKildee,House
-312,"Upton, Fred",Michigan 6th District,@RepFredUpton,https://www.facebook.com/RepFredUpton,House
-313,"Walberg, Tim",Michigan 7th District,@RepWalberg,https://www.facebook.com/RepWalberg,House
-314,"Slotkin, Elissa",Michigan 8th District,@HouseDemocrats,https://www.facebook.com/HouseDemocrats,House
-315,"Levin, Sander",Michigan 9th District,@repsandylevin,https://www.facebook.com/RepSandyLevin,House
-316,"Hagedorn, Jim",Minnesota 1st District,@RepHagedorn,https://www.facebook.com/RepHagedorn,House
-317,"Craig, Angie",Minnesota 2nd District,@RepAngieCraig,https://www.facebook.com/RepAngieCraig,House
-318,"Phillips, Dean",Minnesota 3rd District,@RepDeanPhillips,https://www.facebook.com/RepDeanPhillips,House
-319,"McCollum, Betty",Minnesota 4th District,@BettyMcCollum04,https://www.facebook.com/repbettymccollum,House
-320,"Omar, Ilhan",Minnesota 5th District,@Ilhan,https://www.facebook.com/RepIlhan/,House
-321,"Emmer, Tom",Minnesota 6th District,@RepTomEmmer,https://www.facebook.com/reptomemmer,House
-322,"Peterson, Collin C.",Minnesota 7th District,@collinpeterson,https://www.facebook.com/pages/Collin-Peterson/6595227967?sk=wall,House
-323,"Stauber, Pete",Minnesota 8th District,@RepPeteStauber,https://www.facebook.com/RepPeteStauber/,House
-324,"Kelly, Trent",Mississippi 1st District,@RepTrentKelly,https://www.facebook.com/RepTrentKelly,House
-325,"Thompson, Bennie G.",Mississippi 2nd District,@BennieGThompson,https://www.facebook.com/Congressman-Bennie-G-Thompson-7259193379,House
-326,"Guest, Michael",Mississippi 3rd District,@RepMichaelGuest,https://www.facebook.com/RepMichaelGuest,House
-327,"Palazzo, Steven",Mississippi 4th District,@CongPalazzo,https://www.facebook.com/stevenpalazzo,House
-328,"Clay Jr., William “Lacy”",Missouri 1st District,@LacyClayMO1,https://www.facebook.com/lacy.clay.3,House
-329,"Wagner, Ann",Missouri 2nd District,@RepAnnWagner,https://www.facebook.com/RepAnnWagner,House
-330,"Luetkemeyer, Blaine",Missouri 3rd District,RepBlaine,https://www.facebook.com/BlaineLuetkemeyer,House
-331,"Hartzler, Vicky",Missouri 4th District,@RepHartzler,https://www.facebook.com/Congresswoman.Hartzler,House
-332,"Cleaver, Emanuel",Missouri 5th District,@repcleaver,https://www.facebook.com/emanuelcleaverii,House
-333,"Graves, Sam",Missouri 6th District,@RepSamGraves,https://www.facebook.com/Sam-Graves-118514606128,House
-334,"Long, Billy",Missouri 7th District,@USRepLong,https://www.facebook.com/BillyLongforCongress,House
-335,"Smith, Jason",Missouri 8th District,@RepJasonSmith,https://www.facebook.com/repjasonsmith,House
-336,"Gianforte, Greg",Montana At-Large,,https://www.facebook.com/RepGianforte/,House
-337,"Fortenberry, Jeff",Nebraska 1st District,@JeffFortenberry,https://www.facebook.com/jefffortenberry,House
-338,"Bacon, Don",Nebraska 2nd District,DonJBacon,https://www.facebook.com/DonBacon2016,House
-339,"Smith, Adrian",Nebraska 3rd District,@RepAdrianSmith,https://www.facebook.com/AdrianSmithNE,House
-340,"Titus, Dina",Nevada 1st District,@repdinatitus,https://www.facebook.com/CongresswomanTitus,House
-341,"Amodei, Mark",Nevada 2nd District,@MarkAmodeiNV2,https://www.facebook.com/MarkAmodeiNV2,House
-342,"Lee, Susie",Nevada 3rd District,@RepSusieLee,https://www.facebook.com/susieleenv/,House
-343,"Horsford, Steven",Nevada 4th District,@RepHorsford,https://www.facebook.com/RepHorsford/,House
-344,"Pappas, Chris",New Hampshire 1st District,@RepChrisPappas,https://www.facebook.com/RepChrisPappas,House
-345,"Kuster, Ann",New Hampshire 2nd District,@RepAnnieKuster,https://www.facebook.com/CongresswomanAnnieKuster,House
-346,"Payne Jr., Donald",New Jersey 10th District,@RepDonaldPayne,https://www.facebook.com/DonaldPayneJr,House
-347,"Sherrill, Mikie",New Jersey 11th District,@RepSherrill,https://www.facebook.com/RepMikieSherrill/,House
-348,"Watson Coleman, Bonnie",New Jersey 12th District,RepBonnie,https://www.facebook.com/RepBonnieWatsonColeman,House
-349,"Norcross, Donald",New Jersey 1st District,@DonNorcross4NJ,https://www.facebook.com/DonaldNorcrossNJ,House
-350,"Van Drew, Jefferson",New Jersey 2nd District,@JeffVanDrew,https://www.facebook.com/VanDrewForCongress/,House
-351,"Kim, Andy",New Jersey 3rd District,@RepAndyKimNJ,https://www.facebook.com/RepAndyKimNJ/,House
-352,"Smith, Chris",New Jersey 4th District,@RepChrisSmith,https://www.facebook.com/RepChrisSmith,House
-353,"Gottheimer, Josh",New Jersey 5th District,@JoshGottheimer,https://www.facebook.com/josh4congress,House
-354,"Pallone Jr., Frank",New Jersey 6th District,@FrankPallone,https://www.facebook.com/RepFrankPallone,House
-355,"Malinowski, Tom",New Jersey 7th District,@RepMalinowski,https://www.facebook.com/RepTomMalinowski/,House
-356,"Sires, Albio",New Jersey 8th District,@RepSires,https://www.facebook.com/RepAlbioSires,House
-357,"Pascrell Jr., Bill",New Jersey 9th District,@BillPascrell,https://www.facebook.com/pascrell,House
-358,"Haaland, Debra",New Mexico 1st District,@RepDebHaaland,https://www.facebook.com/RepDebHaaland,House
-359,"Torres Small, Xochiti",New Mexico 2nd District,@RepTorresSmall,https://www.facebook.com/RepTorresSmall,House
-360,"Lujan, Ben R.",New Mexico 3rd District,@repbenraylujan,https://www.facebook.com/RepBenRayLujan,House
-361,"Nadler, Jerrold",New York 10th District,@RepJerryNadler,https://www.facebook.com/CongressmanNadler,House
-362,"Rose, Max",New York 11th District,@RepMaxRose,https://www.facebook.com/RepMaxRose/,House
-363,"Maloney, Carolyn",New York 12th District,@RepMaloney,https://www.facebook.com/CarolynMaloney,House
-364,"Espaillat, Adriano",New York 13th District,@EspaillatNY,https://www.facebook.com/EspaillatForCongress,House
-365,"Ocasio-Cortez, Alexandria",New York 14th District,@RepAOC,https://www.facebook.com/repAOC/,House
-366,"Serrano, José E.",New York 15th District,@RepJoseSerrano,https://www.facebook.com/RepJoseSerrano,House
-367,"Engel, Eliot",New York 16th District,@RepEliotEngel,https://www.facebook.com/RepEliotLEngel,House
-368,"Lowey, Nita",New York 17th District,@NitaLowey,https://www.facebook.com/nitalowey,House
-369,"Maloney, Sean Patrick",New York 18th District,@RepSeanMaloney,https://www.facebook.com/repseanmaloney,House
-370,"Delgado, Antonio",New York 19th District,@RepDelgado,https://www.facebook.com/RepAntonioDelgado,House
-371,"Zeldin, Lee",New York 1st District,@RepLeeZeldin,https://www.facebook.com/RepLeeZeldin,House
-372,"Tonko, Paul D.",New York 20th District,@RepPaulTonko,https://www.facebook.com/reppaultonko,House
-373,"Stefanik, Elise",New York 21st District,@RepStefanik,https://www.facebook.com/RepEliseStefanik,House
-374,"Brindisi, Anthony",New York 22nd District,@RepBrindisi,https://www.facebook.com/RepBrindisi,House
-375,"Reed, Tom",New York 23rd District,@RepTomReed,https://www.facebook.com/RepTomReed,House
-376,"Katko, John",New York 24th District,@RepJohnKatko,https://www.facebook.com/RepJohnKatko,House
-377,"Morelle, Joseph",New York 25th District,@RepJoeMorelle,https://www.facebook.com/RepJoeMorelle/,House
-378,"Higgins, Brian",New York 26th District,@RepBrianHiggins,https://www.facebook.com/RepBrianHiggins,House
-379,"Collins, Chris",New York 27th District,@RepChrisCollins,https://www.facebook.com/RepChrisCollins,House
-380,"King, Pete",New York 2nd District,@RepPeteKing,https://www.facebook.com/reppeteking,House
-381,"Suozzi, Tom",New York 3rd District,@Tom_Suozzi,https://www.facebook.com/Tom.Suozzi,House
-382,"Rice, Kathleen",New York 4th District,@RepKathleenRice,https://www.facebook.com/RepKathleenRice,House
-383,"Meeks, Gregory W.",New York 5th District,RepGregoryMeeks,https://www.facebook.com/gregorymeeksny05,House
-384,"Meng, Grace",New York 6th District,@RepGraceMeng,https://www.facebook.com/repgracemeng,House
-385,"Velázquez, Nydia M.",New York 7th District,@NydiaVelazquez,https://www.facebook.com/Nydia-Velazquez-8037068318,House
-386,"Jeffries, Hakeem",New York 8th District,@RepJeffries,https://www.facebook.com/RepHakeemJeffries,House
-387,"Clarke, Yvette D.",New York 9th District,@YvetteClarke,https://www.facebook.com/repyvettedclarke,House
-388,"McHenry, Patrick T.",North Carolina 10th District,@PatrickMcHenry,https://www.facebook.com/CongressmanMcHenry,House
-389,"Meadows, Mark",North Carolina 11th District,@RepMarkMeadows,https://www.facebook.com/Repmarkmeadows,House
-390,"Adams, Alma",North Carolina 12th District,@RepAdams,https://www.facebook.com/CongresswomanAdams,House
-391,"Budd, Ted",North Carolina 13th District,@BuddforCongress,https://www.facebook.com/TedBuddforCongress,House
-392,"Butterfield, G.K.",North Carolina 1st District,@GKButterfield,https://www.facebook.com/congressmangkbutterfield,House
-393,"Holding, George",North Carolina 2nd District,@GeorgeHolding,https://www.facebook.com/CongressmanGeorgeHolding,House
-394,"Jones, Walter B.",North Carolina 3rd District,@RepWalterJones,https://www.facebook.com/Walter-Jones-15083070102,House
-395,"Price, David",North Carolina 4th District,@RepDavidEPrice,https://www.facebook.com/RepDavidEPrice,House
-396,"Foxx, Virginia",North Carolina 5th District,@virginiafoxx,https://www.facebook.com/RepVirginiaFoxx,House
-397,"Walker, Mark",North Carolina 6th District,@RepMarkWalker,https://www.facebook.com/RepMarkWalker,House
-398,"Rouzer, David",North Carolina 7th District,@RepDavidRouzer,https://www.facebook.com/RepRouzer,House
-399,"Hudson, Richard",North Carolina 8th District,@RepRichHudson,https://www.facebook.com/RepRichHudson,House
-400,"Pittenger, Robert",North Carolina 9th District,@reppittenger,https://www.facebook.com/congressmanpittenger,House
-401,"Armstrong, Kelly",North Dakota At-Large,@RepArmstrongND,https://www.facebook.com/RepArmstrongND,House
-402,"Sablan, Gregorio",Northern Mariana Islands At-Large,,https://www.facebook.com/Gregorio-Kilili-Camacho-Sablan-153423912663,House
-403,"Turner, Michael",Ohio 10th District,@RepMikeTurner,https://www.facebook.com/RepMikeTurner?sid=b8c1027c76287aac4c2612af6af9a77c&ref=s,House
-404,"Fudge, Marcia L.",Ohio 11th District,@RepMarciaFudge,https://www.facebook.com/RepMarciaLFudge,House
-405,"Balderson, Troy",Ohio 12th District,@RepBalderson,https://www.facebook.com/RepTroyBalderson/,House
-406,"Ryan, Tim",Ohio 13th District,@RepTimRyan,https://www.facebook.com/timryan,House
-407,"Joyce, David",Ohio 14th District,@RepDaveJoyce,https://www.facebook.com/RepDaveJoyce,House
-408,"Stivers, Steve",Ohio 15th District,@RepSteveStivers,https://www.facebook.com/RepSteveStivers,House
-409,"Gonzalez, Anthony",Ohio 16th District,@RepAGonzalez,https://www.facebook.com/RepAGonzalez,House
-410,"Chabot, Steve",Ohio 1st District,@RepSteveChabot,https://www.facebook.com/RepSteveChabot,House
-411,"Wenstrup, Brad",Ohio 2nd District,@RepBradWenstrup,https://www.facebook.com/RepBradWenstrup,House
-412,"Beatty, Joyce",Ohio 3rd District,@RepBeatty,http://www.facebook.com/pages/Joyce-Beatty,House
-413,"Jordan, Jim",Ohio 4th District,@Jim_Jordan,https://www.facebook.com/repjimjordan,House
-414,"Latta, Robert E.",Ohio 5th District,@boblatta,https://www.facebook.com/boblatta,House
-415,"Johnson, Bill",Ohio 6th District,@RepBillJohnson,https://www.facebook.com/RepBillJohnson?ref=ts,House
-416,"Gibbs, Bob",Ohio 7th District,@RepBobGibbs,https://www.facebook.com/RepBobGibbs,House
-417,"Davidson, Warren",Ohio 8th District,@WarrenDavidson,https://www.facebook.com/CongressmanWarrenDavidson,House
-418,"Kaptur, Marcy",Ohio 9th District,@RepMarcyKaptur,https://www.facebook.com/RepresentativeMarcyKaptur,House
-419,"Hern, Kevin",Oklahoma 1st District,@RepKevinHern,https://www.facebook.com/repkevinhern/,House
-420,"Mullin, Markwayne",Oklahoma 2nd District,@RepMullin,https://www.facebook.com/RepMullin,House
-421,"Lucas, Frank",Oklahoma 3rd District,@RepFrankLucas,https://www.facebook.com/RepFrankLucas,House
-422,"Cole, Tom",Oklahoma 4th District,@TomColeOK04,https://www.facebook.com/TomColeOK04,House
-423,"Horn, Kendra",Oklahoma 5th District,@RepKendraHorn,https://www.facebook.com/RepKendraHorn/,House
-424,"Bonamici, Suzanne",Oregon 1st District,@RepBonamici,https://www.facebook.com/suzannebonamici,House
-425,"Walden, Greg",Oregon 2nd District,@repgregwalden,https://www.facebook.com/repgregwalden?ref=profile,House
-426,"Blumenauer, Earl",Oregon 3rd District,@repblumenauer,https://www.facebook.com/blumenauer,House
-427,"DeFazio, Peter",Oregon 4th District,@RepPeterDeFazio,https://www.facebook.com/RepPeterDeFazio,House
-428,"Schrader, Kurt",Oregon 5th District,@RepSchrader,https://www.facebook.com/repschrader?ref=ts,House
-429,"Perry, Scott",Pennsylvania 10th District,@RepScottPerry,https://www.facebook.com/repscottperry,House
-430,"Smucker, Lloyd",Pennsylvania 11th District,RepSmucker,https://www.facebook.com/RepSmucker,House
-431,"Marino, Tom",Pennsylvania 12th District,,,House
-432,"Joyce, John",Pennsylvania 13th District,@RepJohnJoyce,https://www.facebook.com/RepJohnJoyce/,House
-433,"Reschenthaler, Guy",Pennsylvania 14th District,@GReschenthaler,https://www.facebook.com/GReschenthaler,House
-434,"Thompson, Glenn",Pennsylvania 15th District,@CongressmanGT,https://www.facebook.com/CongressmanGT/,House
-435,"Kelly, Mike",Pennsylvania 16th District,@MikeKellyforPA,https://www.facebook.com/MikeKellyPA/,House
-436,"Lamb, Conor",Pennsylvania 17th District,@RepConorLamb,https://www.facebook.com/RepConorLamb,House
-437,"Doyle, Michael",Pennsylvania 18th District,@USRepMikeDoyle,https://www.facebook.com/usrepmikedoyle/,House
-438,"Fitzpatrick, Brady",Pennsylvania 1st District,@RepBrianFitz,https://www.facebook.com/RepBrianFitzpatrick/,House
-439,"Boyle, Brendan",Pennsylvania 2nd District,@CongBoyle,https://www.facebook.com/CongressmanBoyle,House
-440,"Evans, Dwight",Pennsylvania 3rd District,@RepDwightEvans,https://www.facebook.com/RepDwightEvans/,House
-441,"Dean, Madeleine",Pennsylvania 4th District,@RepDean,https://www.facebook.com/RepMadeleineDean/,House
-442,"Scanlon, Mary-Gay",Pennsylvania 5th District,@RepMGS,https://www.facebook.com/RepMGS/,House
-443,"Houlahan, Chrissy",Pennsylvania 6th District,@RepHoulahan,https://www.facebook.com/ChrissyHoulahan/,House
-444,"Wild, Susan",Pennsylvania 7th District,@RepSusanWild,https://www.facebook.com/repsusanwild,House
-445,"Cartwright, Matt",Pennsylvania 8th District,@RepCartwright,https://www.facebook.com/CongressmanMattCartwright,House
-446,"Meuser, Daniel",Pennsylvania 9th District,@RepMeuser,https://www.facebook.com/RepMeuser,House
-447,"Gonzalez-Colon, Jenniffer",Puerto Rico At-Large,@Jenniffer2012,https://www.facebook.com/JGOPR51,House
-448,"Cicilline, David",Rhode Island 1st District,@RepCicilline,https://www.facebook.com/CongressmanDavidCicilline,House
-449,"Langevin, Jim",Rhode Island 2nd District,@jimlangevin,https://www.facebook.com/CongressmanJimLangevin,House
-450,"Cunningham, Joe",South Carolina 1st District,@RepCunningham,https://www.facebook.com/RepJoeCunningham/,House
-451,"Wilson, Joe",South Carolina 2nd District,@RepJoeWilson,https://www.facebook.com/JoeWilson,House
-452,"Duncan, Jeff",South Carolina 3rd District,@RepJeffDuncan,https://www.facebook.com/RepJeffDuncan,House
-453,"Timmons, William",South Carolina 4th District,@RepTimmons,https://www.facebook.com/RepTimmons/,House
-454,"Norman, Ralph",South Carolina 5th District,@RepRalphNorman,https://www.facebook.com/RepRalphNorman/,House
-455,"Clyburn, James E.",South Carolina 6th District,WhipClyburn,https://www.facebook.com/jameseclyburn,House
-456,"Rice, Tom",South Carolina 7th District,@RepTomRice,https://www.facebook.com/reptomrice,House
-457,"Johnson, Dusty",South Dakota At-Large,@RepDustyJohnson,https://www.facebook.com/RepDustyJohnson/,House
-458,"Roe, Phil",Tennessee 1st District,@DrPhilRoe,https://www.facebook.com/DrPhilRoe,House
-459,"Burchett, Tim",Tennessee 2nd District,@RepTimBurchett,https://www.facebook.com/RepTimBurchett/,House
-460,"Fleischmann, Chuck",Tennessee 3rd District,@RepChuck,https://www.facebook.com/repchuck,House
-461,"DesJarlais, Scott",Tennessee 4th District,@DesJarlaisTN04,https://www.facebook.com/ScottDesJarlaisTN04,House
-462,"Cooper, Jim",Tennessee 5th District,@repjimcooper,https://www.facebook.com/JimCooper,House
-463,"Rose, John W.",Tennessee 6th District,@RepJohnRose,https://www.facebook.com/repjohnrose,House
-464,"Green, Mark",Tennessee 7th District,@RepMarkGreen,https://www.facebook.com/RepMarkGreenTN/,House
-465,"Kustoff, David",Tennessee 8th District,@DavidKustoff,https://www.facebook.com/KustoffForCongress,House
-466,"Cohen, Steve",Tennessee 9th District,@RepCohen,https://www.facebook.com/CongressmanSteveCohen?ref=ts,House
-467,"McCaul, Michael T.",Texas 10th District,@RepMcCaul,https://www.facebook.com/michaeltmccaul,House
-468,"Conaway, K. Michael",Texas 11th District,@ConawayTX11,https://www.facebook.com/mike.conaway,House
-469,"Granger, Kay",Texas 12th District,@RepKayGranger,https://www.facebook.com/RepKayGranger,House
-470,"Thornberry, Mac",Texas 13th District,@MacTXPress,https://www.facebook.com/repmacthornberry,House
-471,"Weber, Randy",Texas 14th District,@TXRandy14,https://www.facebook.com/TXRandy14,House
-472,"Gonzalez, Vincente",Texas 15th District,RepGonzalez,https://www.facebook.com/votevicente,House
-473,"Escobar, Veronica",Texas 16th District,@RepEscobar,https://www.facebook.com/RepEscobar,House
-474,"Jackson Lee, Sheila",Texas 18th District,@JacksonLeeTX18,https://www.facebook.com/CongresswomanSheilaJacksonLee,House
-475,"Arrington, Jodey",Texas 19th District,@JodeyArrington,https://www.facebook.com/JodeyArrington,House
-476,"Gohmert, Louie",Texas 1st District,@replouiegohmert,https://www.facebook.com/Louie-Gohmert-50375006903,House
-477,"Castro, Joaquin",Texas 20th District,@JoaquinCastrotx,https://www.facebook.com/JoaquinCastroTX,House
-478,"Roy, Chip",Texas 21st District,@RepChipRoy,https://www.facebook.com/RepChipRoy,House
-479,"Olson, Pete",Texas 22nd District,@PeteOlson,https://www.facebook.com/PeteOlsonTX,House
-480,"Hurd, Will",Texas 23rd District,@HurdOnTheHill,https://www.facebook.com/HurdOnTheHill,House
-481,"Marchant, Kenny",Texas 24th District,@RepKenMarchant,https://www.facebook.com/RepKennyMarchant,House
-482,"Williams, Roger",Texas 25th District,@RepRWilliams,https://www.facebook.com/RepRogerWilliams,House
-483,"Burgess, Michael",Texas 26th District,@michaelcburgess,https://www.facebook.com/michaelcburgess,House
-484,"Cloud, Michael",Texas 27th District,@RepCloudTX,https://www.facebook.com/RepCloudTX/,House
-485,"Cuellar, Henry",Texas 28th District,@RepCuellar,https://www.facebook.com/repcuellar,House
-486,"Garcia, Sylvia",Texas 29th District,@RepSylviaGarcia,https://www.facebook.com/RepSylviaGarcia,House
-487,"Crenshaw, Dan",Texas 2nd District,@RepDanCrenshaw,https://www.facebook.com/RepDanCrenshaw/,House
-488,"Johnson, Eddie Bernice",Texas 30th District,@RepEBJ,https://www.facebook.com/CongresswomanEBJtx30,House
-489,"Carter, John",Texas 31st District,@JudgeCarter,https://www.facebook.com/judgecarter,House
-490,"Allred, Colin",Texas 32nd District,@RepColinAllred,https://www.facebook.com/RepColinAllred/,House
-491,"Veasey, Marc",Texas 33rd District,@RepVeasey,https://www.facebook.com/CongressmanMarcVeasey,House
-492,"Vela, Filemon",Texas 34th District,@RepFilemonVela,https://www.facebook.com/UsCongressmanFilemonVela,House
-493,"Doggett, Lloyd",Texas 35th District,@RepLloydDoggett,https://www.facebook.com/lloyddoggett,House
-494,"Babin, Brian",Texas 36th District,@RepBrianBabin,https://www.facebook.com/RepBrianBabin,House
-495,"Taylor, Van",Texas 3rd District,@RepVanTaylor,https://www.facebook.com/RepVanTaylor,House
-496,"Ratcliffe, John",Texas 4th District,@RepRatcliffe,https://www.facebook.com/RepRatcliffe,House
-497,"Gooden, Lance",Texas 5th District,@RepLanceGooden,https://www.facebook.com/RepGooden,House
-498,"Wright, Ron",Texas 6th District,@RepRonWright,https://www.facebook.com/Congressman-Ron-Wright-594717754318936/?modal=admin_todo_tour,House
-499,"Fletcher, Lizzie",Texas 7th District,@RepFletcher,https://www.facebook.com/RepFletcher/,House
-500,"Brady, Kevin",Texas 8th District,@RepKevinBrady,https://www.facebook.com/kevinbrady,House
-501,"Green, Al",Texas 9th District,@RepAlGreen,https://www.facebook.com/Congressman-Al-Green-224027854297805,House
-502,"Bishop, Rob",Utah 1st District,@RepHalRogers,https://www.facebook.com/CongressmanHalRogers,House
-503,"Stewart, Chris",Utah 2nd District,@RepChrisStewart,https://www.facebook.com/RepChrisStewart,House
-504,"Curtis, John R.",Utah 3rd District,@RepJohnCurtis,https://www.facebook.com/RepJohnCurtis/,House
-505,"McAdams, Ben",Utah 4th District,@RepBenMcAdams,https://www.facebook.com/RepBenMcAdams/,House
-506,"Welch, Peter",Vermont At-Large,@PeterWelch,https://www.facebook.com/PeterWelch,House
-507,"Plaskett, Stacey",Virgin Islands At-Large,@StaceyPlaskett,https://www.facebook.com/repstaceyplaskett,House
-508,"Wexton, Jennifer",Virginia 10th District,@RepWexton,https://www.facebook.com/CongresswomanWexton,House
-509,"Connolly, Gerald E. “Gerry”",Virginia 11th District,@GerryConnolly,https://www.facebook.com/CongressmanGerryConnolly,House
-510,"Wittman, Robert J.",Virginia 1st District,@RobWittman,https://www.facebook.com/RepRobWittman,House
-511,"Luria, Elaine",Virginia 2nd District,@RepElaineLuria,https://www.facebook.com/RepElaineLuria,House
-512,"Scott, Robert C.",Virginia 3rd District,@repbobbyscott,https://www.facebook.com/CongressmanBobbyScott,House
-513,"McEacchin, Donald",Virginia 4th District,@Donald_McEachin,https://www.facebook.com/DonaldMcEachinVA,House
-514,"Riggleman, Denver",Virginia 5th District,@RepRiggleman,https://www.facebook.com/RepRiggleman,House
-515,"Cline, Ben",Virginia 6th District,@RepBenCline,https://www.facebook.com/RepBenCline,House
-516,"Spanberger, Abigail",Virginia 7th District,@RepSpanberger,https://www.facebook.com/RepAbigailSpanberger,House
-517,"Beyer, Don",Virginia 8th District,@RepDonBeyer,https://www.facebook.com/RepDonBeyer,House
-518,"Griffith, Morgan",Virginia 9th District,@RepMGriffith,https://www.facebook.com/RepMorganGriffith,House
-519,"Heck, Denny",Washington 10th District,@RepDennyHeck,https://www.facebook.com/CongressmanDennyHeck,House
-520,"DelBene, Suzan",Washington 1st District,@RepDelBene,https://www.facebook.com/RepDelBene,House
-521,"Larsen, Rick",Washington 2nd District,@RepRickLarsen,https://www.facebook.com/RepRickLarsen,House
-522,"Herrera Beutler, Jaime",Washington 3rd District,@HerreraBeutler,https://www.facebook.com/herrerabeutler,House
-523,"Newhouse, Dan",Washington 4th District,@RepNewhouse,https://www.facebook.com/RepNewhouse,House
-524,"McMorris Rodgers, Cathy",Washington 5th District,@cathymcmorris,https://www.facebook.com/mcmorrisrodgers,House
-525,"Kilmer, Derek",Washington 6th District,@RepDerekKilmer,https://www.facebook.com/derek.kilmer,House
-526,"Jayapal, Pramila",Washington 7th District,@PramilaJayapal,https://www.facebook.com/Pramila.Jayapal,House
-527,"Schrier, Kim",Washington 8th District,@RepKimSchrier,https://www.facebook.com/RepKimSchrier/,House
-528,"Smith, Adam",Washington 9th District,@RepAdamSmith,https://www.facebook.com/RepAdamSmith,House
-529,"McKinley, David",West Virginia 1st District,@RepMcKinley,https://www.facebook.com/RepMcKinley,House
-530,"Mooney, Alex",West Virginia 2nd District,@RepAlexMooney,https://www.facebook.com/CongressmanAlexMooney,House
-531,"Miller, Carol",West Virginia 3rd District,@RepCarolMiller,https://www.facebook.com/RepEvanJenkins,House
-532,"Steil, Bryan",Wisconsin 1st District,@RepBryanSteil,https://www.facebook.com/RepBryanSteil/,House
-533,"Pocan, Mark",Wisconsin 2nd District,@repmarkpocan,https://www.facebook.com/repmarkpocan,House
-534,"Kind, Ron",Wisconsin 3rd District,@RepRonKind,https://www.facebook.com/repronkind?ref=nf,House
-535,"Moore, Gwen",Wisconsin 4th District,@RepGwenMoore,https://www.facebook.com/GwenSMoore,House
-536,"Sensenbrenner, F. James",Wisconsin 5th District,@JimPressOffice,https://www.facebook.com/SensenbrennerforCongress,House
-537,"Grothman, Glenn",Wisconsin 6th District,@RepGrothman,https://www.facebook.com/RepGrothman,House
-538,"Duffy, Sean P.",Wisconsin 7th District,@RepSeanDuffy,https://www.facebook.com/RepSeanDuffy,House
-539,"Gallagher, Mike",Wisconsin 8th District,@MikeforWI,https://www.facebook.com/MikeforWisconsin,House
-540,"Cheney, Liz",Wyoming At-Large,@Liz_Cheney,https://www.facebook.com/CheneyLiz,House
+﻿Congress_id,Name,State,Twitter,Facebook,Position,Party
+263, Abby Finkenauer,Iowa 1st District,@RepFinkenauer,https://www.facebook.com/RepAbbyFinkenauer,House,Democratic Party
+516, Abigail Spanberger,Virginia 7th District,@RepSpanberger,https://www.facebook.com/RepAbigailSpanberger,House,Democratic Party
+242, Adam Kinzinger,Illinois 16th District,@RepKinzinger,https://www.facebook.com/RepKinzinger,House,Republican Party
+142, Adam Schiff,California 28th District,@RepAdamSchiff,https://www.facebook.com/RepAdamSchiff,House,Democratic Party
+528, Adam Smith,Washington 9th District,@RepAdamSmith,https://www.facebook.com/RepAdamSmith,House,Democratic Party
+339, Adrian Smith,Nebraska 3rd District,@RepAdrianSmith,https://www.facebook.com/AdrianSmithNE,House,Republican Party
+364, Adriano Espaillat,New York 13th District,@EspaillatNY,https://www.facebook.com/EspaillatForCongress,House,Democratic Party
+501, Al Green,Texas 9th District,@RepAlGreen,https://www.facebook.com/Congressman-Al-Green-224027854297805,House,Democratic Party
+212, Al Lawson,Florida 5th District,@AlLawsonJr,https://www.facebook.com/AlLawsonJr,House,Democratic Party
+163, Alan Lowenthal,California 47th District,@RepLowenthal,https://www.facebook.com/RepLowenthal,House,Democratic Party
+356, Albio Sires,New Jersey 8th District,@RepSires,https://www.facebook.com/RepAlbioSires,House,Democratic Party
+201, Alcee L. Hastings,Florida 20th District,@RepHastingsFL,https://www.facebook.com/Congressman-Alcee-L-Hastings-95696782238,House,Democratic Party
+530, Alex Mooney,West Virginia 2nd District,@RepAlexMooney,https://www.facebook.com/CongressmanAlexMooney,House,Republican Party
+365, Alexandria Ocasio-Cortez,New York 14th District,@RepAOC,https://www.facebook.com/repAOC/,House,Democratic Party
+390, Alma Adams,North Carolina 12th District,@RepAdams,https://www.facebook.com/CongresswomanAdams,House,Democratic Party
+109, Amata Radewagen,American Samoa At-Large,@RepAmata,https://www.facebook.com/congresswomanaumuaamata,House,Republican Party
+173, Ami Bera,California 7th District,@RepBera,https://www.facebook.com/RepAmiBera,House,Democratic Party
+260, André Carson,Indiana 7th District,@RepAndreCarson,https://www.facebook.com/CongressmanAndreCarson,House,Democratic Party
+276, Andy Barr,Kentucky 6th District,@RepAndyBarr,https://www.facebook.com/RepAndyBarr,House,Republican Party
+114, Andy Biggs,Arizona 5th District,@AndyBiggs4AZ,https://www.facebook.com/biggsforcongress,House,Republican Party
+285, Andy Harris,Maryland 1st District,@RepAndyHarrisMD,https://www.facebook.com/AndyHarrisMD,House,Republican Party
+351, Andy Kim,New Jersey 3rd District,@RepAndyKimNJ,https://www.facebook.com/RepAndyKimNJ/,House,Democratic Party
+317, Angie Craig,Minnesota 2nd District,@RepAngieCraig,https://www.facebook.com/RepAngieCraig,House,Democratic Party
+111, Ann Kirkpatrick,Arizona 2nd District,@RepKirkPatrick,https://www.facebook.com/RepAnnKirkpatrick/,House,Democratic Party
+345, Ann Kuster,New Hampshire 2nd District,@RepAnnieKuster,https://www.facebook.com/CongresswomanAnnieKuster,House,Democratic Party
+329, Ann Wagner,Missouri 2nd District,@RepAnnWagner,https://www.facebook.com/RepAnnWagner,House,Republican Party
+131, Anna G. Eshoo,California 18th District,@RepAnnaEshoo,https://www.facebook.com/RepAnnaEshoo,House,Democratic Party
+374, Anthony Brindisi,New York 22nd District,@RepBrindisi,https://www.facebook.com/RepBrindisi,House,Democratic Party
+288, Anthony Brown,Maryland 4th District,RepAnthonyBrown,https://www.facebook.com/AnthonyBrown.Maryland,House,Democratic Party
+409, Anthony Gonzalez,Ohio 16th District,@RepAGonzalez,https://www.facebook.com/RepAGonzalez,House,Republican Party
+370, Antonio Delgado,New York 19th District,@RepDelgado,https://www.facebook.com/RepAntonioDelgado,House,Democratic Party
+229, Austin Scott,Georgia 8th District,@AustinScottGA08,https://www.facebook.com/RepAustinScott,House,Republican Party
+299, Ayanna Pressley,Massachusetts 7th District,@RepPressley,https://www.facebook.com/RepAyannaPressley,House,Democratic Party
+126, Barbara Lee,California 13th District,@RepBarbaraLee,https://www.facebook.com/RepBarbaraLee,House,Democratic Party
+218, Barry Loudermilk,Georgia 11th District,@RepLoudermilk,https://www.facebook.com/RepLoudermilk,House,Republican Party
+515, Ben Cline,Virginia 6th District,@RepBenCline,https://www.facebook.com/RepBenCline,House,Republican Party
+505, Ben McAdams,Utah 4th District,@RepBenMcAdams,https://www.facebook.com/RepBenMcAdams/,House,Democratic Party
+360, Ben R. Lujan,New Mexico 3rd District,@repbenraylujan,https://www.facebook.com/RepBenRayLujan,House,Democratic Party
+325, Bennie G. Thompson,Mississippi 2nd District,@BennieGThompson,https://www.facebook.com/Congressman-Bennie-G-Thompson-7259193379,House,Democratic Party
+319, Betty McCollum,Minnesota 4th District,@BettyMcCollum04,https://www.facebook.com/repbettymccollum,House,Democratic Party
+237, Bill Foster,Illinois 11th District,@RepBillFoster,https://www.facebook.com/CongressmanBillFoster,House,Democratic Party
+308, Bill Huizenga,Michigan 2nd District,@RepHuizenga,https://www.facebook.com/rephuizenga,House,Republican Party
+415, Bill Johnson,Ohio 6th District,@RepBillJohnson,https://www.facebook.com/RepBillJohnson?ref=ts,House,Republican Party
+357, Bill Pascrell Jr.,New Jersey 9th District,@BillPascrell,https://www.facebook.com/pascrell,House,Democratic Party
+215, Bill Posey,Florida 8th District,@congbillposey,https://www.facebook.com/bill.posey15,House,Republican Party
+334, Billy Long,Missouri 7th District,@USRepLong,https://www.facebook.com/BillyLongforCongress,House,Republican Party
+330, Blaine Luetkemeyer,Missouri 3rd District,RepBlaine,https://www.facebook.com/BlaineLuetkemeyer,House,Republican Party
+416, Bob Gibbs,Ohio 7th District,@RepBobGibbs,https://www.facebook.com/RepBobGibbs,House,Republican Party
+245, Bobby L. Rush,Illinois 1st District,@RepBobbyRush,https://www.facebook.com/congressmanbobbyrush,House,Democratic Party
+348, Bonnie Watson Coleman,New Jersey 12th District,RepBonnie,https://www.facebook.com/RepBonnieWatsonColeman,House,Democratic Party
+145, Brad Sherman,California 30th District,@BradSherman,https://www.facebook.com/CongressmanBradSherman,House,Democratic Party
+411, Brad Wenstrup,Ohio 2nd District,@RepBradWenstrup,https://www.facebook.com/RepBradWenstrup,House,Republican Party
+101, Bradley Byrne,Alabama 1st District,@RepByrne,https://www.facebook.com/RepByrne,House,Republican Party
+236, Bradley Schneider,Illinois 10th District,@RepSchneider,https://www.facebook.com/BradSchneider,House,Democratic Party
+438, Brady Fitzpatrick,Pennsylvania 1st District,@RepBrianFitz,https://www.facebook.com/RepBrianFitzpatrick/,House,Republican Party
+306, Brenda Lawrence,Michigan 14th District,@RepLawrence,https://www.facebook.com/Rep-Brenda-Lawrence-395759603917487,House,Democratic Party
+439, Brendan Boyle,Pennsylvania 2nd District,@CongBoyle,https://www.facebook.com/CongressmanBoyle,House,Democratic Party
+494, Brian Babin,Texas 36th District,@RepBrianBabin,https://www.facebook.com/RepBrianBabin,House,Republican Party
+378, Brian Higgins,New York 26th District,@RepBrianHiggins,https://www.facebook.com/RepBrianHiggins,House,Democratic Party
+198, Brian Mast,Florida 18th District,@BrianMastFL,https://www.facebook.com/BrianMastFL,House,Republican Party
+122, Bruce Westerman,Arkansas 4th District,@RepWesterman,https://www.facebook.com/RepWesterman,House,Republican Party
+532, Bryan Steil,Wisconsin 1st District,@RepBryanSteil,https://www.facebook.com/RepBryanSteil/,House,Republican Party
+222, Buddy Carter,Georgia 1st District,@RepBuddyCarter,https://www.facebook.com/CongressmanBuddyCarter,House,Republican Party
+286, C. A. Dutch Ruppersberger,Maryland 2nd District,@Call_Me_Dutch,https://www.facebook.com/DutchRupp,House,Democratic Party
+531, Carol Miller,West Virginia 3rd District,@RepCarolMiller,https://www.facebook.com/RepEvanJenkins,House,Republican Party
+363, Carolyn Maloney,New York 12th District,@RepMaloney,https://www.facebook.com/CarolynMaloney,House,Democratic Party
+524, Cathy McMorris Rodgers,Washington 5th District,@cathymcmorris,https://www.facebook.com/mcmorrisrodgers,House,Republican Party
+278, Cedric Richmond,Louisiana 2nd District,@RepRichmond,https://www.facebook.com/RepRichmond,House,Democratic Party
+193, Charlie Crist,Florida 13th District,@CharlieCrist,https://www.facebook.com/CharlieCrist,House,Democratic Party
+283, Chellie Pingree,Maine 1st District,@chelliepingree,https://www.facebook.com/ChelliePingree,House,Democratic Party
+243, Cheri Bustos,Illinois 17th District,@RepCheri,https://www.facebook.com/RepCheri,House,Democratic Party
+478, Chip Roy,Texas 21st District,@RepChipRoy,https://www.facebook.com/RepChipRoy,House,Republican Party
+379, Chris Collins,New York 27th District,@RepChrisCollins,https://www.facebook.com/RepChrisCollins,House,Republican Party
+344, Chris Pappas,New Hampshire 1st District,@RepChrisPappas,https://www.facebook.com/RepChrisPappas,House,Democratic Party
+352, Chris Smith,New Jersey 4th District,@RepChrisSmith,https://www.facebook.com/RepChrisSmith,House,Republican Party
+503, Chris Stewart,Utah 2nd District,@RepChrisStewart,https://www.facebook.com/RepChrisStewart,House,Republican Party
+443, Chrissy Houlahan,Pennsylvania 6th District,@RepHoulahan,https://www.facebook.com/ChrissyHoulahan/,House,Democratic Party
+460, Chuck Fleischmann,Tennessee 3rd District,@RepChuck,https://www.facebook.com/repchuck,House,Republican Party
+279, Clay Higgins,Louisiana 3rd District,RepClayHiggins,https://www.facebook.com/CaptClayHiggins,House,Republican Party
+490, Colin Allred,Texas 32nd District,@RepColinAllred,https://www.facebook.com/RepColinAllred/,House,Democratic Party
+322, Collin C. Peterson,Minnesota 7th District,@collinpeterson,https://www.facebook.com/pages/Collin-Peterson/6595227967?sk=wall,House,Democratic Party
+436, Conor Lamb,Pennsylvania 17th District,@RepConorLamb,https://www.facebook.com/RepConorLamb,House,Democratic Party
+265, Cynthia Axne,Iowa 3rd District,@RepCindyAxne,https://www.facebook.com/RepCindyAxne,House,Democratic Party
+487, Dan Crenshaw,Texas 2nd District,@RepDanCrenshaw,https://www.facebook.com/RepDanCrenshaw/,House,Republican Party
+523, Dan Newhouse,Washington 4th District,@RepNewhouse,https://www.facebook.com/RepNewhouse,House,Republican Party
+311, Daniel Kildee,Michigan 5th District,@RepDanKildee,https://www.facebook.com/RepDanKildee,House,Democratic Party
+247, Daniel Lipinski,Illinois 3rd District,@RepLipinski,https://www.facebook.com/repdanlipinski,House,Democratic Party
+446, Daniel Meuser,Pennsylvania 9th District,@RepMeuser,https://www.facebook.com/RepMeuser,House,Republican Party
+191, Daniel Webster,Florida 11th District,@RepWebster,https://www.facebook.com/RepWebster,House,Republican Party
+251, Danny K. Davis,Illinois 7th District,@RepDannyDavis,https://www.facebook.com/CongressmanDKDavis,House,Democratic Party
+216, Darren Soto,Florida 9th District,RepDarrenSoto,https://www.facebook.com/DarrenSotoFlorida,House,Democratic Party
+448, David Cicilline,Rhode Island 1st District,@RepCicilline,https://www.facebook.com/CongressmanDavidCicilline,House,Democratic Party
+407, David Joyce,Ohio 14th District,@RepDaveJoyce,https://www.facebook.com/RepDaveJoyce,House,Republican Party
+465, David Kustoff,Tennessee 8th District,@DavidKustoff,https://www.facebook.com/KustoffForCongress,House,Republican Party
+264, David Loebsack,Iowa 2nd District,@daveloebsack,https://www.facebook.com/DaveLoebsack,House,Democratic Party
+529, David McKinley,West Virginia 1st District,@RepMcKinley,https://www.facebook.com/RepMcKinley,House,Republican Party
+395, David Price,North Carolina 4th District,@RepDavidEPrice,https://www.facebook.com/RepDavidEPrice,House,Democratic Party
+398, David Rouzer,North Carolina 7th District,@RepDavidRouzer,https://www.facebook.com/RepRouzer,House,Republican Party
+115, David Schweikert,Arizona 6th District,@RepDavid,https://www.facebook.com/repdavidschweikert,House,Republican Party
+220, David Scott,Georgia 13th District,@repdavidscott,https://www.facebook.com/RepDavidScott,House,Democratic Party
+290, David Trone,Maryland 6th District,@RepDavidTrone,https://www.facebook.com/repdavidtrone/,House,Democratic Party
+318, Dean Phillips,Minnesota 3rd District,@RepDeanPhillips,https://www.facebook.com/RepDeanPhillips,House,Democratic Party
+304, Debbie Dingell,Michigan 12th District,@RepDebDingell,https://www.facebook.com/RepDebbieDingell,House,Democratic Party
+117, Debbie Lesko,Arizona 8th District,@RepDLesko,https://www.facebook.com/RepDebbieLesko/,House,Republican Party
+207, Debbie Mucarsel-Powell,Florida 26th District,@RepDMP,https://www.facebook.com/RepDMP,House,Democratic Party
+204, Debbie Wasserman Schultz,Florida 23rd District,@RepDWStweets,https://www.facebook.com/RepDWS,House,Democratic Party
+358, Debra Haaland,New Mexico 1st District,@RepDebHaaland,https://www.facebook.com/RepDebHaaland,House,Democratic Party
+519, Denny Heck,Washington 10th District,@RepDennyHeck,https://www.facebook.com/CongressmanDennyHeck,House,Democratic Party
+514, Denver Riggleman,Virginia 5th District,@RepRiggleman,https://www.facebook.com/RepRiggleman,House,Republican Party
+525, Derek Kilmer,Washington 6th District,@RepDerekKilmer,https://www.facebook.com/derek.kilmer,House,Democratic Party
+136, Devin Nunes,California 22nd District,DevinNunes,https://www.facebook.com/Devin-Nunes-376470350795,House,Republican Party
+176, Diana DeGette,Colorado 1st District,@RepDianaDeGette,https://www.facebook.com/DianaDeGette,House,Democratic Party
+340, Dina Titus,Nevada 1st District,@repdinatitus,https://www.facebook.com/CongresswomanTitus,House,Democratic Party
+338, Don Bacon,Nebraska 2nd District,DonJBacon,https://www.facebook.com/DonBacon2016,House,Republican Party
+517, Don Beyer,Virginia 8th District,@RepDonBeyer,https://www.facebook.com/RepDonBeyer,House,Democratic Party
+108, Don Young,Alaska At-Large,@repdonyoung,https://www.facebook.com/RepDonYoung,House,Republican Party
+513, Donald McEacchin,Virginia 4th District,@Donald_McEachin,https://www.facebook.com/DonaldMcEachinVA,House,Democratic Party
+349, Donald Norcross,New Jersey 1st District,@DonNorcross4NJ,https://www.facebook.com/DonaldNorcrossNJ,House,Democratic Party
+346, Donald Payne Jr.,New Jersey 10th District,@RepDonaldPayne,https://www.facebook.com/DonaldPayneJr,House,Democratic Party
+208, Donna E. Shalala,Florida 27th District,@RepShalala,https://www.facebook.com/RepShalala/,House,Democratic Party
+172, Doris O. Matsui,California 6th District,@DorisMatsui,https://www.facebook.com/doris.matsui,House,Democratic Party
+230, Doug Collins,Georgia 9th District,@RepDougCollins,https://www.facebook.com/RepresentativeDougCollins,House,Republican Party
+133, Doug LaMalfa,California 1st District,@RepLaMalfa,https://www.facebook.com/RepLaMalfa,House,Republican Party
+180, Doug Lamborn,Colorado 5th District,@RepDLamborn,https://www.facebook.com/CongressmanDougLamborn,House,Republican Party
+224, Drew Ferguson,Georgia 3rd District,@DrewFergusonGA,https://www.facebook.com/DrewFergusonforCongress,House,Republican Party
+167, Duncan D. Hunter,California 50th District,@Rep_Hunter,https://www.facebook.com/DuncanHunter,House,Republican Party
+457, Dusty Johnson,South Dakota At-Large,@RepDustyJohnson,https://www.facebook.com/RepDustyJohnson/,House,Republican Party
+440, Dwight Evans,Pennsylvania 3rd District,@RepDwightEvans,https://www.facebook.com/RepDwightEvans/,House,Democratic Party
+426, Earl Blumenauer,Oregon 3rd District,@repblumenauer,https://www.facebook.com/blumenauer,House,Democratic Party
+232, Ed Case,Hawaii 1st District,@RepEdCase,https://www.facebook.com/RepEdCase,House,Democratic Party
+182, Ed Perlmutter,Colorado 7th District,@RepPerlmutter,https://www.facebook.com/RepPerlmutter?v=info&tab=page_info,House,Democratic Party
+488, Eddie Bernice Johnson,Texas 30th District,@RepEBJ,https://www.facebook.com/CongresswomanEBJtx30,House,Democratic Party
+511, Elaine Luria,Virginia 2nd District,@RepElaineLuria,https://www.facebook.com/RepElaineLuria,House,Democratic Party
+189, Eleanor Holmes Norton,District of Columbia At-Large,@EleanorNorton,https://www.facebook.com/CongresswomanNorton?sid=86d3965b+ff3b64843d69f30c5e40e361&ref=s,House,Democratic Party
+291, Elijah Cummings,Maryland 7th District,@RepCummings,https://www.facebook.com/elijahcummings,House,Democratic Party
+367, Eliot Engel,New York 16th District,@RepEliotEngel,https://www.facebook.com/RepEliotLEngel,House,Democratic Party
+373, Elise Stefanik,New York 21st District,@RepStefanik,https://www.facebook.com/RepEliseStefanik,House,Republican Party
+314, Elissa Slotkin,Michigan 8th District,@HouseDemocrats,https://www.facebook.com/HouseDemocrats,House,Democratic Party
+332, Emanuel Cleaver,Missouri 5th District,@repcleaver,https://www.facebook.com/emanuelcleaverii,House,Democratic Party
+128, Eric Swalwell,California 15th District,@RepSwalwell,https://www.facebook.com/CongressmanEricSwalwell,House,Democratic Party
+536, F. James Sensenbrenner,Wisconsin 5th District,@JimPressOffice,https://www.facebook.com/SensenbrennerforCongress,House,Republican Party
+492, Filemon Vela,Texas 34th District,@RepFilemonVela,https://www.facebook.com/UsCongressmanFilemonVela,House,Democratic Party
+199, Francis Rooney,Florida 19th District,@FrancisRooney,https://www.facebook.com/Francis-Rooney-1630804517180066/,House,Republican Party
+421, Frank Lucas,Oklahoma 3rd District,@RepFrankLucas,https://www.facebook.com/RepFrankLucas,House,Republican Party
+354, Frank Pallone Jr.,New Jersey 6th District,@FrankPallone,https://www.facebook.com/RepFrankPallone,House,Democratic Party
+312, Fred Upton,Michigan 6th District,@RepFredUpton,https://www.facebook.com/RepFredUpton,House,Republican Party
+205, Frederica Wilson,Florida 24th District,@RepWilson,https://www.facebook.com/RepWilson,House,Democratic Party
+120, French Hill,Arkansas 2nd District,@RepFrenchHill,https://www.facebook.com/RepFrenchHill,House,Republican Party
+392, G.K. Butterfield,North Carolina 1st District,@GKButterfield,https://www.facebook.com/congressmangkbutterfield,House,Democratic Party
+282, Garret Graves,Louisiana 6th District,@RepGarretGraves,https://www.facebook.com/CongressmanGarretGraves,House,Republican Party
+106, Gary Palmer,Alabama 6th District,@USRepGaryPalmer,https://www.facebook.com/USRepresentativeGaryPalmer,House,Republican Party
+393, George Holding,North Carolina 2nd District,@GeorgeHolding,https://www.facebook.com/CongressmanGeorgeHolding,House,Republican Party
+509, Gerald E. “Gerry” Connolly,Virginia 11th District,@GerryConnolly,https://www.facebook.com/CongressmanGerryConnolly,House,Democratic Party
+154, Gilbert Ray Jr. Cisneros,California 39th District,@RepGilCisneros,https://www.facebook.com/RepGilCisneros,House,Democratic Party
+537, Glenn Grothman,Wisconsin 6th District,@RepGrothman,https://www.facebook.com/RepGrothman,House,Republican Party
+434, Glenn Thompson,Pennsylvania 15th District,@CongressmanGT,https://www.facebook.com/CongressmanGT/,House,Republican Party
+384, Grace Meng,New York 6th District,@RepGraceMeng,https://www.facebook.com/repgracemeng,House,Democratic Party
+147, Grace Napolitano,California 32nd District,@gracenapolitano,https://www.facebook.com/RepGraceNapolitano,House,Democratic Party
+336, Greg Gianforte,Montana At-Large,,https://www.facebook.com/RepGianforte/,House,Republican Party
+259, Greg Pence,Indiana 6th District,@RepGregPence,https://www.facebook.com/RepGregPence,House,Republican Party
+118, Greg Stanton,Arizona 9th District,@RepGregStanton,https://www.facebook.com/repgregstanton/,House,Democratic Party
+425, Greg Walden,Oregon 2nd District,@repgregwalden,https://www.facebook.com/repgregwalden?ref=profile,House,Republican Party
+402, Gregorio Sablan,Northern Mariana Islands At-Large,,https://www.facebook.com/Gregorio-Kilili-Camacho-Sablan-153423912663,House,Independent Party
+383, Gregory W. Meeks,New York 5th District,RepGregoryMeeks,https://www.facebook.com/gregorymeeksny05,House,Democratic Party
+192, Gus M. Bilirakis,Florida 12th District,@RepGusBilirakis,https://www.facebook.com/GusBilirakis,House,Republican Party
+433, Guy Reschenthaler,Pennsylvania 14th District,@GReschenthaler,https://www.facebook.com/GReschenthaler,House,Republican Party
+535, Gwen Moore,Wisconsin 4th District,@RepGwenMoore,https://www.facebook.com/GwenSMoore,House,Democratic Party
+386, Hakeem Jeffries,New York 8th District,@RepJeffries,https://www.facebook.com/RepHakeemJeffries,House,Democratic Party
+303, Haley Stevens,Michigan 11th District,@RepHaleyStevens,https://www.facebook.com/RepHaleyStevens,House,Democratic Party
+164, Harley Rouda,California 48th District,@RepHarley,https://www.facebook.com/RepHarley,House,Democratic Party
+275, Harold Rogers,Kentucky 5th District,@RepHalRogers,https://www.facebook.com/CongressmanHalRogers,House,Republican Party
+225, Henry C. “Hank” Jr. Johnson,Georgia 4th District,@RepHankJohnson,https://www.facebook.com/Congressman-Hank-Johnson-115356957005,House,Democratic Party
+485, Henry Cuellar,Texas 28th District,@RepCuellar,https://www.facebook.com/repcuellar,House,Democratic Party
+320, Ilhan Omar,Minnesota 5th District,@Ilhan,https://www.facebook.com/RepIlhan/,House,Democratic Party
+307, Jack Bergman,Michigan 1st District,@JackBergman_MI1,https://www.facebook.com/BergmanforCongress,House,Republican Party
+127, Jackie Speier,California 14th District,@RepSpeier,https://www.facebook.com/JackieSpeier,House,Democratic Party
+255, Jackie Walorski,Indiana 2nd District,@RepWalorski,https://www.facebook.com/RepJackieWalorski,House,Republican Party
+187, Jahana Hayes,Connecticut 5th District,@RepJahanaHayes,https://www.facebook.com/RepJahanaHayes,House,Democratic Party
+522, Jaime Herrera Beutler,Washington 3rd District,@HerreraBeutler,https://www.facebook.com/herrerabeutler,House,Republican Party
+257, James Baird,Indiana 4th District,@RepJimBaird,https://www.facebook.com/RepJimBaird,House,Republican Party
+271, James Comer,Kentucky 1st District,@KYComer,https://www.facebook.com/CongressmanJamesComer,House,Republican Party
+455, James E. Clyburn,South Carolina 6th District,WhipClyburn,https://www.facebook.com/jameseclyburn,House,Democratic Party
+294, James McGovern,Massachusetts 2nd District,@RepMcGovern,https://www.facebook.com/RepJimMcGovern,House,Democratic Party
+292, Jamie Raskin,Maryland 8th District,@Jamie_Raskin,https://www.facebook.com/Raskin.Jamie,House,Democratic Party
+253, Jan Schakowsky,Illinois 9th District,@janschakowsky,https://www.facebook.com/janschakowsky,House,Democratic Party
+284, Jared Golden,Maine 2nd District,@RepGolden,https://www.facebook.com/RepGolden,House,Democratic Party
+144, Jared Huffman,California 2nd District,@RepHuffman,https://www.facebook.com/RepHuffman,House,Democratic Party
+181, Jason Crow,Colorado 6th District,@RepJasonCrow,https://www.facebook.com/RepJasonCrow,House,Democratic Party
+335, Jason Smith,Missouri 8th District,@RepJasonSmith,https://www.facebook.com/repjasonsmith,House,Republican Party
+452, Jeff Duncan,South Carolina 3rd District,@RepJeffDuncan,https://www.facebook.com/RepJeffDuncan,House,Republican Party
+337, Jeff Fortenberry,Nebraska 1st District,@JeffFortenberry,https://www.facebook.com/jefffortenberry,House,Republican Party
+350, Jefferson Van Drew,New Jersey 2nd District,@JeffVanDrew,https://www.facebook.com/VanDrewForCongress/,House,Democratic Party
+508, Jennifer Wexton,Virginia 10th District,@RepWexton,https://www.facebook.com/CongresswomanWexton,House,Democratic Party
+447, Jenniffer Gonzalez-Colon,Puerto Rico At-Large,@Jenniffer2012,https://www.facebook.com/JGOPR51,House,Republican Party
+361, Jerrold Nadler,New York 10th District,@RepJerryNadler,https://www.facebook.com/CongressmanNadler,House,Democratic Party
+175, Jerry McNerney,California 9th District,@RepMcNerney,https://www.facebook.com/jerrymcnerney,House,Democratic Party
+248, Jesus “Chuy” Garcia,Illinois 4th District,@RepChuyGarcia,https://www.facebook.com/RepChuyGarcia/,House,Democratic Party
+256, Jim Banks,Indiana 3rd District,@Jim_Banks,https://www.facebook.com/JimBanksforCongress,House,Republican Party
+462, Jim Cooper,Tennessee 5th District,@repjimcooper,https://www.facebook.com/JimCooper,House,Democratic Party
+129, Jim Costa,California 16th District,@RepJimCosta,https://www.facebook.com/RepJimCosta,House,Democratic Party
+316, Jim Hagedorn,Minnesota 1st District,@RepHagedorn,https://www.facebook.com/RepHagedorn,House,Republican Party
+186, Jim Himes,Connecticut 4th District,@jahimes,https://www.facebook.com/CongressmanJimHimes,House,Democratic Party
+413, Jim Jordan,Ohio 4th District,@Jim_Jordan,https://www.facebook.com/repjimjordan,House,Republican Party
+449, Jim Langevin,Rhode Island 2nd District,@jimlangevin,https://www.facebook.com/CongressmanJimLangevin,House,Democratic Party
+149, Jimmy Gomez,California 34th District,@RepJimmyGomez,https://www.facebook.com/RepJimmyGomez/,House,Democratic Party
+134, Jimmy Panetta,California 20th District,@JimmyPanetta,https://www.facebook.com/JimmyPanettaForCongress,House,Democratic Party
+477, Joaquin Castro,Texas 20th District,@JoaquinCastrotx,https://www.facebook.com/JoaquinCastroTX,House,Democratic Party
+475, Jodey Arrington,Texas 19th District,@JodeyArrington,https://www.facebook.com/JodeyArrington,House,Republican Party
+217, Jody Hice,Georgia 10th District,@CongressmanHice,https://www.facebook.com/CongressmanJodyHice,House,Republican Party
+184, Joe Courtney,Connecticut 2nd District,@RepJoeCourtney,https://www.facebook.com/joecourtney,House,Democratic Party
+450, Joe Cunningham,South Carolina 1st District,@RepCunningham,https://www.facebook.com/RepJoeCunningham/,House,Democratic Party
+177, Joe Neguse,Colorado 2nd District,@RepJoeNeguse,https://www.facebook.com/RepJoeNeguse/,House,Democratic Party
+451, Joe Wilson,South Carolina 2nd District,@RepJoeWilson,https://www.facebook.com/JoeWilson,House,Republican Party
+273, John A. Yarmuth,Kentucky 3rd District,@RepJohnYarmuth,https://www.facebook.com/Congressman-John-Yarmuth-KY-3-214258646163,House,Democratic Party
+183, John B. Larson,Connecticut 1st District,@RepJohnLarson,https://www.facebook.com/RepJohnLarson,House,Democratic Party
+489, John Carter,Texas 31st District,@JudgeCarter,https://www.facebook.com/judgecarter,House,Republican Party
+155, John Garamendi,California 3rd District,@RepGaramendi,https://www.facebook.com/repgaramendi,House,Democratic Party
+432, John Joyce,Pennsylvania 13th District,@RepJohnJoyce,https://www.facebook.com/RepJohnJoyce/,House,Republican Party
+376, John Katko,New York 24th District,@RepJohnKatko,https://www.facebook.com/RepJohnKatko,House,Republican Party
+226, John Lewis,Georgia 5th District,@repjohnlewis,https://www.facebook.com/RepJohnLewis,House,Democratic Party
+310, John Moolenaar,Michigan 4th District,@RepMoolenaar,https://www.facebook.com/RepMoolenaar,House,Republican Party
+287, John P. Sarbanes,Maryland 3rd District,@RepSarbanes,https://www.facebook.com/RepSarbanes,House,Democratic Party
+504, John R. Curtis,Utah 3rd District,@RepJohnCurtis,https://www.facebook.com/RepJohnCurtis/,House,Republican Party
+496, John Ratcliffe,Texas 4th District,@RepRatcliffe,https://www.facebook.com/RepRatcliffe,House,Republican Party
+211, John Rutherford,Florida 4th District,@JRutherfordFL,https://www.facebook.com/JohnRutherfordFL,House,Republican Party
+241, John Shimkus,Illinois 15th District,@RepShimkus,https://www.facebook.com/repshimkus,House,Republican Party
+463, John W. Rose,Tennessee 6th District,@RepJohnRose,https://www.facebook.com/repjohnrose,House,Republican Party
+366, José E. Serrano,New York 15th District,@RepJoseSerrano,https://www.facebook.com/RepJoseSerrano,House,Democratic Party
+377, Joseph Morelle,New York 25th District,@RepJoeMorelle,https://www.facebook.com/RepJoeMorelle/,House,Democratic Party
+296, Joseph P. Kennedy III,Massachusetts 4th District,@RepJoeKennedy,https://www.facebook.com/CongressmanJoeKennedyIII,House,Democratic Party
+353, Josh Gottheimer,New Jersey 5th District,@JoshGottheimer,https://www.facebook.com/josh4congress,House,Democratic Party
+123, Josh Harder,California 10th District,@RepJoshHarder,https://www.facebook.com/RepJoshHarder/,House,Democratic Party
+412, Joyce Beatty,Ohio 3rd District,@RepBeatty,http://www.facebook.com/pages/Joyce-Beatty,House,Democratic Party
+168, Juan Vargas,California 51st District,@RepJuanVargas,https://www.facebook.com/RepJuanVargas,House,Democratic Party
+141, Judy Chu,California 27th District,@RepJudyChu,https://www.facebook.com/repjudychu,House,Democratic Party
+140, Julia Brownley,California 26th District,RepBrownley,https://www.facebook.com/RepJuliaBrownley,House,Democratic Party
+309, Justin Amash,Michigan 3rd District,@justinamash,https://www.facebook.com/repjustinamash,House,Republican Party
+468, Michael K. Conaway,Texas 11th District,@ConawayTX11,https://www.facebook.com/mike.conaway,House,Republican Party
+152, Karen Bass,California 37th District,@RepKarenBass,https://www.facebook.com/RepKarenBass,House,Democratic Party
+297, Katherine Clark,Massachusetts 5th District,@RepKClark,https://www.facebook.com/CongresswomanClark?_rdr=p,House,Democratic Party
+382, Kathleen Rice,New York 4th District,@RepKathleenRice,https://www.facebook.com/RepKathleenRice,House,Democratic Party
+194, Kathy Castor,Florida 14th District,@USRepKCastor,https://www.facebook.com/USRepKathyCastor,House,Democratic Party
+139, Katie Hill,California 25th District,@RepKatieHill,https://www.facebook.com/RepKatieHill/,House,Democratic Party
+161, Katie Porter,California 45th District,@RepKatiePorter,https://www.facebook.com/repkatieporter/,House,Democratic Party
+469, Kay Granger,Texas 12th District,@RepKayGranger,https://www.facebook.com/RepKayGranger,House,Republican Party
+401, Kelly Armstrong,North Dakota At-Large,@RepArmstrongND,https://www.facebook.com/RepArmstrongND,House,Republican Party
+179, Ken Buck,Colorado 4th District,@RepKenBuck,https://www.facebook.com/repkenbuck,House,Republican Party
+158, Ken Calvert,California 42nd District,@KenCalvert,https://www.facebook.com/CalvertforCongress,House,Republican Party
+423, Kendra Horn,Oklahoma 5th District,@RepKendraHorn,https://www.facebook.com/RepKendraHorn/,House,Democratic Party
+481, Kenny Marchant,Texas 24th District,@RepKenMarchant,https://www.facebook.com/RepKennyMarchant,House,Republican Party
+500, Kevin Brady,Texas 8th District,@RepKevinBrady,https://www.facebook.com/kevinbrady,House,Republican Party
+419, Kevin Hern,Oklahoma 1st District,@RepKevinHern,https://www.facebook.com/repkevinhern/,House,Republican Party
+137, Kevin McCarthy,California 23rd District,@GOPLeader,https://www.facebook.com/CongressmanKevinMcCarthy,House,Republican Party
+527, Kim Schrier,Washington 8th District,@RepKimSchrier,https://www.facebook.com/RepKimSchrier/,House,Democratic Party
+428, Kurt Schrader,Oregon 5th District,@RepSchrader,https://www.facebook.com/repschrader?ref=ts,House,Democratic Party
+497, Lance Gooden,Texas 5th District,@RepLanceGooden,https://www.facebook.com/RepGooden,House,Republican Party
+261, Larry Bucshon,Indiana 8th District,@RepLarryBucshon,https://www.facebook.com/RepLarryBucshon,House,Republican Party
+240, Lauren Underwood,Illinois 14th District,@RepUnderwood,https://www.facebook.com/repunderwood/,House,Democratic Party
+371, Lee Zeldin,New York 1st District,@RepLeeZeldin,https://www.facebook.com/RepLeeZeldin,House,Republican Party
+153, Linda Sánchez,California 38th District,@RepLindaSanchez,https://www.facebook.com/CongresswomanLindaSanchez,House,Democratic Party
+188, Lisa Blunt Rochester,Delaware At-Large,@LisaBRochester,https://www.facebook.com/LisaBluntRochester,House,Democratic Party
+540, Liz Cheney,Wyoming At-Large,@Liz_Cheney,https://www.facebook.com/CheneyLiz,House,Republican Party
+499, Lizzie Fletcher,Texas 7th District,@RepFletcher,https://www.facebook.com/RepFletcher/,House,Democratic Party
+493, Lloyd Doggett,Texas 35th District,@RepLloydDoggett,https://www.facebook.com/lloyddoggett,House,Democratic Party
+430, Lloyd Smucker,Pennsylvania 11th District,RepSmucker,https://www.facebook.com/RepSmucker,House,Republican Party
+202, Lois Frankel,Florida 21st District,@RepLoisFrankel,https://www.facebook.com/RepLoisFrankel,House,Democratic Party
+295, Lori Trahan,Massachusetts 3rd District,@RepLoriTrahan,https://www.facebook.com/RepLoriTrahan/,House,Democratic Party
+162, Lou Correa,California 46th Division,RepLouCorrea,https://www.facebook.com/LouCorreaCA,House,Democratic Party
+476, Louie Gohmert,Texas 1st District,@replouiegohmert,https://www.facebook.com/Louie-Gohmert-50375006903,House,Republican Party
+156, Lucille Roybal-Allard,California 40th District,@RepRoybalAllard,https://www.facebook.com/RepRoybalAllard,House,Democratic Party
+227, Lucy McBath,Georgia 6th District,@RepLucyMcBath,https://www.facebook.com/replucymcbath,House,Democratic Party
+470, Mac Thornberry,Texas 13th District,@MacTXPress,https://www.facebook.com/repmacthornberry,House,Republican Party
+441, Madeleine Dean,Pennsylvania 4th District,@RepDean,https://www.facebook.com/RepMadeleineDean/,House,Democratic Party
+491, Marc Veasey,Texas 33rd District,@RepVeasey,https://www.facebook.com/CongressmanMarcVeasey,House,Democratic Party
+404, Marcia L. Fudge,Ohio 11th District,@RepMarciaFudge,https://www.facebook.com/RepMarciaLFudge,House,Democratic Party
+418, Marcy Kaptur,Ohio 9th District,@RepMarcyKaptur,https://www.facebook.com/RepresentativeMarcyKaptur,House,Democratic Party
+206, Mario Diaz-Balart,Florida 25th District,@MarioDB,https://www.facebook.com/mdiazbalart,House,Republican Party
+341, Mark Amodei,Nevada 2nd District,@MarkAmodeiNV2,https://www.facebook.com/MarkAmodeiNV2,House,Republican Party
+124, Mark DeSaulnier,California 11th District,@RepDeSaulnier,https://www.facebook.com/RepMarkDeSaulnier,House,Democratic Party
+464, Mark Green,Tennessee 7th District,@RepMarkGreen,https://www.facebook.com/RepMarkGreenTN/,House,Republican Party
+389, Mark Meadows,North Carolina 11th District,@RepMarkMeadows,https://www.facebook.com/Repmarkmeadows,House,Republican Party
+533, Mark Pocan,Wisconsin 2nd District,@repmarkpocan,https://www.facebook.com/repmarkpocan,House,Democratic Party
+157, Mark Takano,California 41st District,@RepMarkTakano,https://www.facebook.com/RepMarkTakano,House,Democratic Party
+397, Mark Walker,North Carolina 6th District,@RepMarkWalker,https://www.facebook.com/RepMarkWalker,House,Republican Party
+420, Markwayne Mullin,Oklahoma 2nd District,@RepMullin,https://www.facebook.com/RepMullin,House,Republican Party
+102, Martha Roby,Alabama 2nd District,@RepMarthaRoby,https://www.facebook.com/Representative.Martha.Roby/,House,Republican Party
+442, Mary-Gay Scanlon,Pennsylvania 5th District,@RepMGS,https://www.facebook.com/RepMGS/,House,Democratic Party
+445, Matt Cartwright,Pennsylvania 8th District,@RepCartwright,https://www.facebook.com/CongressmanMattCartwright,House,Democratic Party
+200, Matt Gaetz,Florida 1st District,@MattGaetz,https://www.facebook.com/RepresentativeMattGaetz,House,Republican Party
+362, Max Rose,New York 11th District,@RepMaxRose,https://www.facebook.com/RepMaxRose/,House,Democratic Party
+159, Maxine Waters,California 43rd District,@MaxineWaters,https://www.facebook.com/MaxineWaters,House,Democratic Party
+483, Michael Burgess,Texas 26th District,@michaelcburgess,https://www.facebook.com/michaelcburgess,House,Republican Party
+484, Michael Cloud,Texas 27th District,@RepCloudTX,https://www.facebook.com/RepCloudTX/,House,Republican Party
+437, Michael Doyle,Pennsylvania 18th District,@USRepMikeDoyle,https://www.facebook.com/usrepmikedoyle/,House,Democratic Party
+231, Michael F.Q. San Nicolas,Guam At-Large,,https://www.facebook.com/CongressmanMichaelF.Q.SanNicolas,House,Democratic Party
+326, Michael Guest,Mississippi 3rd District,@RepMichaelGuest,https://www.facebook.com/RepMichaelGuest,House,Republican Party
+467, Michael T. McCaul,Texas 10th District,@RepMcCaul,https://www.facebook.com/michaeltmccaul,House,Republican Party
+403, Michael Turner,Ohio 10th District,@RepMikeTurner,https://www.facebook.com/RepMikeTurner?sid=b8c1027c76287aac4c2612af6af9a77c&ref=s,House,Republican Party
+213, Michael Waltz,Florida 6th District,@RepMichaelWaltz,https://www.facebook.com/repmichaelwaltz/,House,Republican Party
+238, Mike Bost,Illinois 12th District,@RepBost,https://www.facebook.com/RepBost,House,Republican Party
+539, Mike Gallagher,Wisconsin 8th District,@MikeforWI,https://www.facebook.com/MikeforWisconsin,House,Republican Party
+280, Mike Johnson,Louisiana 4th District,@RepMikeJohnson,https://www.facebook.com/MikeJohnsonLouisiana,House,Republican Party
+435, Mike Kelly,Pennsylvania 16th District,@MikeKellyforPA,https://www.facebook.com/MikeKellyPA/,House,Republican Party
+165, Mike Levin,California 49th District,@RepMikeLevin,https://www.facebook.com/RepMikeLevin,House,Democratic Party
+249, Mike Quigley,Illinois 5th District,@RepMikeQuigley,https://www.facebook.com/repmikequigley,House,Democratic Party
+103, Mike Rogers,Alabama 3rd District,@RepMikeRogersAL,https://www.facebook.com/pages/Mike-Rogers/6406874733?sk=wall,House,Republican Party
+235, Mike Simpson,Idaho 2nd District,@CongMikeSimpson,https://www.facebook.com/Mike-Simpson-96007744606,House,Republican Party
+171, Mike Thompson,California 5th District,@RepThompson,https://www.facebook.com/RepMikeThompson,House,Democratic Party
+347, Mikie Sherrill,New Jersey 11th District,@RepSherrill,https://www.facebook.com/RepMikieSherrill/,House,Democratic Party
+105, Mo Brooks,Alabama 5th District,@RepMoBrooks,https://www.facebook.com/RepMoBrooks,House,Republican Party
+518, Morgan Griffith,Virginia 9th District,@RepMGriffith,https://www.facebook.com/RepMorganGriffith,House,Republican Party
+125, Nancy Pelosi,California 12th District,SpeakerPelosi,https://www.facebook.com/NancyPelosi,House,Democratic Party
+160, Nanette Barragan,California 44th District,@Nanette4CA,https://www.facebook.com/NanetteBarraganforCongress,House,Democratic Party
+209, Neal Dunn,Florida 2nd District,DrNealDunnFL2,https://www.facebook.com/NealDunnForCongress,House,Republican Party
+368, Nita Lowey,New York 17th District,@NitaLowey,https://www.facebook.com/nitalowey,House,Democratic Party
+150, Norma Torres,California 35th District,@NormaJTorres,https://www.facebook.com/RepNormaTorres,House,Democratic Party
+385, Nydia M. Velázquez,New York 7th District,@NydiaVelazquez,https://www.facebook.com/Nydia-Velazquez-8037068318,House,Democratic Party
+388, Patrick T. McHenry,North Carolina 10th District,@PatrickMcHenry,https://www.facebook.com/CongressmanMcHenry,House,Republican Party
+113, Paul A. Gosar,Arizona 4th District,@RepGosar,https://www.facebook.com/repgosar,House,Republican Party
+174, Paul Cook,California 8th District,@RepPaulCook,https://www.facebook.com/RepPaulCook,House,Republican Party
+372, Paul D. Tonko,New York 20th District,@RepPaulTonko,https://www.facebook.com/reppaultonko,House,Democratic Party
+302, Paul Mitchell,Michigan 10th District,RepPaulMitchell,https://www.facebook.com/PaulMitchellforUS,House,Republican Party
+146, Pete Aguilar,California 31st District,@RepPeteAguilar,https://www.facebook.com/reppeteaguilar,House,Democratic Party
+380, Pete King,New York 2nd District,@RepPeteKing,https://www.facebook.com/reppeteking,House,Republican Party
+479, Pete Olson,Texas 22nd District,@PeteOlson,https://www.facebook.com/PeteOlsonTX,House,Republican Party
+323, Pete Stauber,Minnesota 8th District,@RepPeteStauber,https://www.facebook.com/RepPeteStauber/,House,Republican Party
+427, Peter DeFazio,Oregon 4th District,@RepPeterDeFazio,https://www.facebook.com/RepPeterDeFazio,House,Democratic Party
+254, Peter Visclosky,Indiana 1st District,@RepVisclosky,https://www.facebook.com/repvisclosky,House,Democratic Party
+506, Peter Welch,Vermont At-Large,@PeterWelch,https://www.facebook.com/PeterWelch,House,Democratic Party
+458, Phil Roe,Tennessee 1st District,@DrPhilRoe,https://www.facebook.com/DrPhilRoe,House,Republican Party
+526, Pramila Jayapal,Washington 7th District,@PramilaJayapal,https://www.facebook.com/Pramila.Jayapal,House,Democratic Party
+252, Raja Krishnamoorthi,Illinois 8th District,@RajaForCongress,https://www.facebook.com/RajaForCongress,House,Democratic Party
+281, Ralph Abraham,Louisiana 5th District,@RepAbraham,https://www.facebook.com/CongressmanRalphAbraham,House,Republican Party
+454, Ralph Norman,South Carolina 5th District,@RepRalphNorman,https://www.facebook.com/RepRalphNorman/,House,Republican Party
+471, Randy Weber,Texas 14th District,@TXRandy14,https://www.facebook.com/TXRandy14,House,Republican Party
+305, Rashida Tlaib,Michigan 13th District,@RepRashida,https://www.facebook.com/RepRashida,House,Democratic Party
+112, Raul Grijalva,Arizona 3rd District,@RepRaulGrijalva,https://www.facebook.com/Rep.Grijalva,House,Democratic Party
+151, Raul Ruiz,California 36th District,@CongressmanRuiz,https://www.facebook.com/CongressmanRaulRuizMD,House,Democratic Party
+293, Richard E. Neal,Massachusetts 1st District,@RepRichardNeal,https://www.facebook.com/Congressman-Richard-Neal-325642654132598,House,Democratic Party
+399, Richard Hudson,North Carolina 8th District,@RepRichHudson,https://www.facebook.com/RepRichHudson,House,Republican Party
+219, Rick Allen,Georgia 12th District,@RepRickAllen,https://www.facebook.com/CongressmanRickAllen,House,Republican Party
+119, Rick Crawford,Arkansas 1st District,@RepRickCrawford,https://www.facebook.com/RepRickCrawford,House,Republican Party
+521, Rick Larsen,Washington 2nd District,@RepRickLarsen,https://www.facebook.com/RepRickLarsen,House,Democratic Party
+130, Ro Khanna,California 17th District,RoKhanna,https://www.facebook.com/Ro_Khanna,House,Democratic Party
+502, Rob Bishop,Utah 1st District,@RepHalRogers,https://www.facebook.com/CongressmanHalRogers,House,Republican Party
+104, Robert Aderholt,Alabama 4th District,@Robert_Aderholt,https://www.facebook.com/RobertAderholt,House,Republican Party
+512, Robert C. Scott,Virginia 3rd District,@repbobbyscott,https://www.facebook.com/CongressmanBobbyScott,House,Democratic Party
+414, Robert E. Latta,Ohio 5th District,@boblatta,https://www.facebook.com/boblatta,House,Republican Party
+510, Robert J. Wittman,Virginia 1st District,@RobWittman,https://www.facebook.com/RepRobWittman,House,Republican Party
+400, Robert Pittenger,North Carolina 9th District,@reppittenger,https://www.facebook.com/congressmanpittenger,House,Republican Party
+228, Robert Woodall,Georgia 7th District,@RepRobWoodall,https://www.facebook.com/RepRobWoodall,House,Republican Party
+246, Robin Kelly,Illinois 2nd District,@RepRobinKelly,https://www.facebook.com/reprobinkelly,House,Democratic Party
+239, Rodney Davis,Illinois 13th District,@RodneyDavis,https://www.facebook.com/RepRodneyDavis?_rdr=p,House,Republican Party
+267, Roger Marshall,Kansas 1st District,@RogerMarshallMD,https://www.facebook.com/DrRogerMarshall,House,Republican Party
+482, Roger Williams,Texas 25th District,@RepRWilliams,https://www.facebook.com/RepRogerWilliams,House,Republican Party
+270, Ron Estes,Kansas 4th District,@RepRonEstes,https://www.facebook.com/RepRonEstes,House,Republican Party
+534, Ron Kind,Wisconsin 3rd District,@RepRonKind,https://www.facebook.com/repronkind?ref=nf,House,Democratic Party
+498, Ron Wright,Texas 6th District,@RepRonWright,https://www.facebook.com/Congressman-Ron-Wright-594717754318936/?modal=admin_todo_tour,House,Republican Party
+185, Rosa L. DeLauro,Connecticut 3rd District,@rosadelauro,https://www.facebook.com/CongresswomanRosaDeLauro?v=wall,House,Democratic Party
+195, Ross Spano,Florida 15th District,@RepRossSpano,https://www.facebook.com/RepRossSpano,House,Republican Party
+116, Ruben Gallego,Arizona 7th District,@RepRubenGallego,https://www.facebook.com/RepRubenGallego,House,Democratic Party
+234, Russ Fulcher,Idaho 1st District,@RepRussFulcher,https://www.facebook.com/RepRussFulcher,House,Republican Party
+272, S. Brett Guthrie,Kentucky 2nd District,@RepGuthrie,https://www.facebook.com/CongressmanGuthrie,House,Republican Party
+138, Salud Carbajal,California 24th District,@CarbajalSalud,https://www.facebook.com/RepSaludCarbajal,House,Democratic Party
+333, Sam Graves,Missouri 6th District,@RepSamGraves,https://www.facebook.com/Sam-Graves-118514606128,House,Republican Party
+315, Sander Levin,Michigan 9th District,@repsandylevin,https://www.facebook.com/RepSandyLevin,House,Democratic Party
+223, Sanford D. Bishop Jr.,Georgia 2nd District,@SanfordBishop,https://www.facebook.com/sanfordbishop,House,Democratic Party
+461, Scott DesJarlais,Tennessee 4th District,@DesJarlaisTN04,https://www.facebook.com/ScottDesJarlaisTN04,House,Republican Party
+429, Scott Perry,Pennsylvania 10th District,@RepScottPerry,https://www.facebook.com/repscottperry,House,Republican Party
+169, Scott Peters,California 52nd District,@RepScottPeters,https://www.facebook.com/scottpeterssandiego,House,Democratic Party
+178, Scott Tipton,Colorado 3rd District,@RepTipton,https://www.facebook.com/CongressmanScottTipton,House,Republican Party
+250, Sean Casten,Illinois 6th District,@RepCasten,https://www.facebook.com/RepSeanCasten/,House,Democratic Party
+538, Sean P. Duffy,Wisconsin 7th District,@RepSeanDuffy,https://www.facebook.com/RepSeanDuffy,House,Republican Party
+369, Sean Patrick Maloney,New York 18th District,@RepSeanMaloney,https://www.facebook.com/repseanmaloney,House,Democratic Party
+298, Seth Moulton,Massachusetts 6th District,@teammoulton,https://www.facebook.com/CongressmanSethMoulton,House,Democratic Party
+269, Sharice Davids,Kansas 3rd District,@RepDavids,https://www.facebook.com/RepDavids,House,Democratic Party
+474, Sheila Jackson Lee,Texas 18th District,@JacksonLeeTX18,https://www.facebook.com/CongresswomanSheilaJacksonLee,House,Democratic Party
+507, Stacey Plaskett,Virgin Islands At-Large,@StaceyPlaskett,https://www.facebook.com/repstaceyplaskett,House,Democratic Party
+289, Steny H. Hoyer,Maryland 5th District,LeaderHoyer,https://www.facebook.com/WhipHoyer,House,Democratic Party
+214, Stephanie Murphy,Florida 7th District,@SMurphyCongress,https://www.facebook.com/SMurphyCongress,House,Democratic Party
+300, Stephen F. Lynch,Massachusetts 8th District,@RepStephenLynch,https://www.facebook.com/repstephenlynch,House,Democratic Party
+410, Steve Chabot,Ohio 1st District,@RepSteveChabot,https://www.facebook.com/RepSteveChabot,House,Republican Party
+466, Steve Cohen,Tennessee 9th District,@RepCohen,https://www.facebook.com/CongressmanSteveCohen?ref=ts,House,Democratic Party
+266, Steve King,Iowa 4th District,@SteveKingIA,https://www.facebook.com/SteveKingIA,House,Republican Party
+277, Steve Scalise,Louisiana 1st District,@SteveScalise,https://www.facebook.com/RepSteveScalise,House,Republican Party
+408, Steve Stivers,Ohio 15th District,@RepSteveStivers,https://www.facebook.com/RepSteveStivers,House,Republican Party
+268, Steve Watkins,Kansas 2nd District,@Rep_Watkins,https://www.facebook.com/CongressmanSteveWatkins,House,Republican Party
+121, Steve Womack,Arkansas 3rd District,@rep_stevewomack,https://www.facebook.com/RepSteveWomack?v=wall,House,Republican Party
+343, Steven Horsford,Nevada 4th District,@RepHorsford,https://www.facebook.com/RepHorsford/,House,Democratic Party
+327, Steven Palazzo,Mississippi 4th District,@CongPalazzo,https://www.facebook.com/stevenpalazzo,House,Republican Party
+170, Susan Davis,California 53rd District,@RepSusanDavis,https://www.facebook.com/RepSusanDavis,House,Democratic Party
+258, Susan W. Brooks,Indiana 5th District,@SusanWBrooks,https://www.facebook.com/CongresswomanSusanWBrooks,House,Republican Party
+444, Susan Wild,Pennsylvania 7th District,@RepSusanWild,https://www.facebook.com/repsusanwild,House,Democratic Party
+342, Susie Lee,Nevada 3rd District,@RepSusieLee,https://www.facebook.com/susieleenv/,House,Democratic Party
+520, Suzan DelBene,Washington 1st District,@RepDelBene,https://www.facebook.com/RepDelBene,House,Democratic Party
+424, Suzanne Bonamici,Oregon 1st District,@RepBonamici,https://www.facebook.com/suzannebonamici,House,Democratic Party
+486, Sylvia Garcia,Texas 29th District,@RepSylviaGarcia,https://www.facebook.com/RepSylviaGarcia,House,Democratic Party
+391, Ted Budd,North Carolina 13th District,@BuddforCongress,https://www.facebook.com/TedBuddforCongress,House,Republican Party
+203, Ted Deutch,Florida 22nd District,@RepTedDeutch,https://www.facebook.com/CongressmanTedDeutch,House,Democratic Party
+148, Ted Lieu,California 33rd District,@RepTedLieu,https://www.facebook.com/RepTedLieu,House,Democratic Party
+210, Ted Yoho,Florida 3rd District,@RepTedYoho,https://www.facebook.com/CongressmanTedYoho,House,Republican Party
+107, Terri A. Sewell,Alabama 7th District,@RepTerriSewell,https://www.facebook.com/RepSewell,House,Democratic Party
+274, Thomas Massie,Kentucky 4th District,@RepThomasMassie,https://www.facebook.com/RepThomasMassie,House,Republican Party
+459, Tim Burchett,Tennessee 2nd District,@RepTimBurchett,https://www.facebook.com/RepTimBurchett/,House,Republican Party
+406, Tim Ryan,Ohio 13th District,@RepTimRyan,https://www.facebook.com/timryan,House,Democratic Party
+313, Tim Walberg,Michigan 7th District,@RepWalberg,https://www.facebook.com/RepWalberg,House,Republican Party
+135, TJ Cox,California 21st District,@RepTJCox,https://www.facebook.com/RepTJCox/,House,Democratic Party
+422, Tom Cole,Oklahoma 4th District,@TomColeOK04,https://www.facebook.com/TomColeOK04,House,Republican Party
+321, Tom Emmer,Minnesota 6th District,@RepTomEmmer,https://www.facebook.com/reptomemmer,House,Republican Party
+221, Tom Graves,Georgia 14th District,@RepTomGraves,https://www.facebook.com/reptomgraves?ref=ts,House,Republican Party
+355, Tom Malinowski,New Jersey 7th District,@RepMalinowski,https://www.facebook.com/RepTomMalinowski/,House,Democratic Party
+431, Tom Marino,Pennsylvania 12th District,,,House,Republican Party
+166, Tom McClintock,California 4th District,@RepMcClintock,https://www.facebook.com/Congressman-Tom-McClintock-81125319109,House,Republican Party
+110, Tom O’Halleran,Arizona 1st District,@TomOHalleran,https://www.facebook.com/OhalleranforAZ,House,Democratic Party
+375, Tom Reed,New York 23rd District,@RepTomReed,https://www.facebook.com/RepTomReed,House,Republican Party
+456, Tom Rice,South Carolina 7th District,@RepTomRice,https://www.facebook.com/reptomrice,House,Republican Party
+381, Tom Suozzi,New York 3rd District,@Tom_Suozzi,https://www.facebook.com/Tom.Suozzi,House,Democratic Party
+143, Tony Cárdenas,California 29th District,@RepCardenas,https://www.facebook.com/repcardenas,House,Democratic Party
+324, Trent Kelly,Mississippi 1st District,@RepTrentKelly,https://www.facebook.com/RepTrentKelly,House,Republican Party
+262,Trey Hollingsworth,Indiana 9th District,@VoteForTrey,https://www.facebook.com/VoteTrey,House,Republican Party
+405, Troy Balderson,Ohio 12th District,@RepBalderson,https://www.facebook.com/RepTroyBalderson/,House,Republican Party
+233, Tulsi Gabbard,Hawaii 2nd District,@TulsiPress,https://www.facebook.com/RepTulsiGabbard,House,Democratic Party
+190, Val Demings,Florida 10th District,@Val_Demings,https://www.facebook.com/Val.Demings,House,Democratic Party
+495, Van Taylor,Texas 3rd District,@RepVanTaylor,https://www.facebook.com/RepVanTaylor,House,Republican Party
+196, Vern Buchanan,Florida 16th District,@VernBuchanan,https://www.facebook.com/CongressmanBuchanan,House,Republican Party
+473, Veronica Escobar,Texas 16th District,@RepEscobar,https://www.facebook.com/RepEscobar,House,Democratic Party
+331, Vicky Hartzler,Missouri 4th District,@RepHartzler,https://www.facebook.com/Congresswoman.Hartzler,House,Republican Party
+472, Vincente Gonzalez,Texas 15th District,RepGonzalez,https://www.facebook.com/votevicente,House,Democratic Party
+396, Virginia Foxx,North Carolina 5th District,@virginiafoxx,https://www.facebook.com/RepVirginiaFoxx,House,Republican Party
+197, W. Gregory Steube,Florida 17th District,@RepGregSteube,https://www.facebook.com/RepGregSteube/,House,Republican Party
+394,Walter B. Jones,North Carolina 3rd District,@RepWalterJones,https://www.facebook.com/Walter-Jones-15083070102,House,Republican Party
+417, Warren Davidson,Ohio 8th District,@WarrenDavidson,https://www.facebook.com/CongressmanWarrenDavidson,House,Republican Party
+480, Will Hurd,Texas 23rd District,@HurdOnTheHill,https://www.facebook.com/HurdOnTheHill,House,Republican Party
+328, William “Lacy” Clay Jr.,Missouri 1st District,@LacyClayMO1,https://www.facebook.com/lacy.clay.3,House,Democratic Party
+301, William Keating,Massachusetts 9th District,@USRepKeating,https://www.facebook.com/Congressman.Keating,House,Democratic Party
+453, William Timmons,South Carolina 4th District,@RepTimmons,https://www.facebook.com/RepTimmons/,House,Republican Party
+359, Xochiti Torres Small,New Mexico 2nd District,@RepTorresSmall,https://www.facebook.com/RepTorresSmall,House,Democratic Party
+387, Yvette D. Clarke,New York 9th District,@YvetteClarke,https://www.facebook.com/repyvettedclarke,House,Democratic Party
+132, Zoe Lofgren,California 19th District,@RepZoeLofgren,https://www.facebook.com/zoelofgren,House,Democratic Party
+45,Amy Klobuchar,Minnesota,@amyklobuchar,https://www.facebook.com/amyklobuchar,Senate,Democratic Party
+37,Angus King,Maine,@SenAngusKing,https://www.facebook.com/SenatorAngusSKingJr,Senate,Independent Party
+53,Ben Sasse,Nebraska,@SenSasse,https://www.facebook.com/SenatorSasse,Senate,Republican Party
+40,Benjamin Cardin,Maryland,@SenatorCardin,https://www.facebook.com/senatorbencardin,Senate,Democratic Party
+89,Bernie Sanders,Vermont,@SenSanders,https://www.facebook.com/senatorsanders,Senate,Independent Party
+36,Bill Cassidy,Louisiana,@BillCassidy,https://www.facebook.com/billcassidy,Senate,Republican Party
+76,"Bob Casey, Jr.",Pennsylvania,@SenBobCasey,https://www.facebook.com/SenatorBobCasey,Senate,Democratic Party
+21,Brian Schatz,Hawaii,@SenBrianSchatz,https://www.facebook.com/BrianSchatz,Senate,Democratic Party
+56,Catherine Cortez Mastro,Nevada,@CatherineForNV,https://www.facebook.com/catherinecortezmastro,Senate,Democratic Party
+15,Chris Coons,Delaware,@SenCoonsOffice,https://www.facebook.com/chriscoons,Senate,Democratic Party
+13,Chris Murphy,Connecticut,@ChrisMurphyCT,https://www.facebook.com/ChrisMurphyCT,Senate,Democratic Party
+39,Chris Van Hollen,Maryland,@ChrisVanHollen,https://www.facebook.com/ChrisVanHollen,Senate,Democratic Party
+29,Chuck Grassley,Iowa,@ChuckGrassley,https://www.facebook.com/grassley,Senate,Republican Party
+63,Chuck Schumer,New York,@SenSchumer,https://www.facebook.com/chuckschumer,Senate,Democratic Party
+48,Cindy Hyde-Smith,Mississippi,@SenHydeSmith,https://www.facebook.com/CindyHydeSmith2018/,Senate,Republican Party
+60,Cory Booker,New Jersey,@CoryBooker,https://www.facebook.com/corybooker,Senate,Democratic Party
+11,Cory Gardner,Colorado,@SenCoryGardner,https://www.facebook.com/SenCoryGardner,Senate,Republican Party
+3,Dan Sullivan,Alaska,@SenDanSullivan,https://www.facebook.com/SenDanSullivan,Senate,Republican Party
+244,Darin LaHood,Illinois 18th District,@ElectLaHood,https://www.facebook.com/darinlahood,House,Republican Party
+19,David Perdue,Georgia,@sendavidperdue,https://www.facebook.com/perduesenate,Senate,Republican Party
+54,Deb Fischer,Nebraska,@SenatorFischer,https://www.facebook.com/senatordebfischer,Senate,Republican Party
+43,Debbie Stabenow,Michigan,@SenStabenow,https://www.facebook.com/stabenow,Senate,Democratic Party
+9,Dianne Feinstein,California,@SenFeinstein,https://www.facebook.com/SenatorFeinstein,Senate,Democratic Party
+2,Doug Jones,Alabama,@DougJones,https://www.facebook.com/senatordougjones/,Senate,Democratic Party
+42,Edward Markey,Massachusetts,@SenMarkey,https://www.facebook.com/EdJMarkey,Senate,Democratic Party
+41,Elizabeth Warren,Massachusetts,@SenWarren,https://www.facebook.com/senatorelizabethwarren,Senate,Democratic Party
+44,Gary Peters,Michigan,@SenGaryPeters,https://www.facebook.com/SenGaryPeters,Senate,Democratic Party
+78,Jack Reed,Rhode Island,@SenJackReed,https://www.facebook.com/SenJackReed,Senate,Democratic Party
+55,Jacky Rosen,Nevada,@SenJackyRosen,https://www.facebook.com/SenJackyRosen/,Senate,Democratic Party
+71,James Lankford,Oklahoma,@SenatorLankford,https://www.facebook.com/SenatorLankford,Senate,Republican Party
+57,Jeanne Shaheen,New Hampshire,@SenatorShaheen,https://www.facebook.com/SenatorShaheen,Senate,Democratic Party
+74,Jeff Merkley,Oregon,@SenJeffMerkley,https://www.facebook.com/jeffmerkley,Senate,Democratic Party
+32,Jerry Moran,Kansas,@JerryMoran,https://www.facebook.com/jerrymoran,Senate,Republican Party
+72,Jim Inhofe,Oklahoma,@InhofePress,https://www.facebook.com/jiminhofe,Senate,Republican Party
+23,Jim Risch,Idaho,@SenatorRisch,https://www.facebook.com/pages/Jim-Risch/107379405951426,Senate,Republican Party
+95,Joe Manchin,West Virginia,@Sen_JoeManchin,https://www.facebook.com/JoeManchinIII,Senate,Democratic Party
+100,John Barrasso,Wyoming,@SenJohnBarrasso,https://www.facebook.com/johnbarrasso,Senate,Republican Party
+8,John Boozman,Arkansas,@JohnBoozman,https://www.facebook.com/JohnBoozman,Senate,Republican Party
+86,John Cornyn,Texas,@JohnCornyn,https://www.facebook.com/Sen.JohnCornyn,Senate,Republican Party
+67,John Hoeven,North Dakota,@SenJohnHoeven,https://www.facebook.com/SenatorJohnHoeven,Senate,Republican Party
+81,John Thune,South Dakota,@SenJohnThune,https://www.facebook.com/johnthune,Senate,Republican Party
+20,Johnny Isakson,Georgia,@SenatorIsakson,https://www.facebook.com/isakson,Senate,Republican Party
+51,Jon Tester,Montana,@SenatorTester,https://www.facebook.com/senatortester,Senate,Democratic Party
+30,Joni Ernst,Iowa,@SenJoniErnst,https://www.facebook.com/senjoniernst,Senate,Republican Party
+49,Josh Hawley,Missouri,@HawleyMO,https://www.facebook.com/SenatorHawley/,Senate,Republican Party
+10,Kamala Harris,California,@KamalaHarris,https://www.facebook.com/KamalaHarris,Senate,Democratic Party
+35,John Kennedy,Louisiana,@JohnKennedyLA,https://www.facebook.com/JohnKennedyLouisiana,Senate,Republican Party
+68,Kevin Cramer,North Dakota,@SenKevinCramer,https://www.facebook.com/SenatorKevinCramer/,Senate,Republican Party
+64,Kirsten Gillibrand,New York,@SenGillibrand,https://www.facebook.com/KirstenGillibrand,Senate,Democratic Party
+6,Kyrsten Sinema,Arizona,@SenatorSinema,https://www.facebook.com/KyrstenSinema/,Senate,Democratic Party
+84,Lamar Alexander,Tennessee,@SenAlexander,https://www.facebook.com/senatorlamaralexander,Senate,Republican Party
+80,Lindsey Graham,South Carolina,@GrahamBlog,https://www.facebook.com/USSenatorLindseyGraham,Senate,Republican Party
+4,Lisa Murkowski,Alaska,@lisamurkowski,https://www.facebook.com/SenLisaMurkowski,Senate,Republican Party
+58,Maggie Hassan,New Hampshire,@Maggie_Hassan,https://www.facebook.com/SenatorHassan,Senate,Democratic Party
+17,Marco Rubio,Florida,@marcorubio,https://www.facebook.com/MarcoRubio,Senate,Republican Party
+94,Maria Cantwell,Washington,@SenMikeLee,https://www.facebook.com/senatorcantwell,Senate,Democratic Party
+91,Mark Warner,Virginia,@MarkWarner,https://www.facebook.com/MarkRWarner,Senate,Democratic Party
+83,Marsha Blackburn,Tennessee,@MarshaBlackburn,https://www.facebook.com/marshablackburn/,Senate,Republican Party
+5,Martha McSally,Arizona,@SenMcSallyAZ,https://www.facebook.com/SenMarthaMcSally/,Senate,Republican Party
+62,Martin Heinrich,New Mexico,@MartinHeinrich,https://www.facebook.com/MartinHeinrich,Senate,Democratic Party
+22,Mazie Hirono,Hawaii,@maziehirono,https://www.facebook.com/mazie.hirono,Senate,Democratic Party
+12,Michael Bennet,Colorado,SenatorBennet,https://www.facebook.com/senatorbennet,Senate,Democratic Party
+27,Mike Braun,Indiana,@Braun4Indiana,https://www.facebook.com/mikebraunforindiana/,Senate,Republican Party
+24,Mike Crapo,Idaho,@MikeCrapo,https://www.facebook.com/mikecrapo,Senate,Republican Party
+99,Mike Enzi,Wyoming,@SenatorEnzi,https://www.facebook.com/mikeenzi,Senate,Republican Party
+87,Mike Lee,Utah,@SenMikeLee,https://www.facebook.com/senatormikelee,Senate,Republican Party
+82,Mike Rounds,South Dakota,@SenatorRounds,https://www.facebook.com/SenatorMikeRounds,Senate,Republican Party
+34,Mitch McConnell,Kentucky,@McConnellPress,https://www.facebook.com/mitchmcconnell,Senate,Republican Party
+88,Mitt Romney,Utah,@SenatorRomney,https://www.facebook.com/senatorromney/,Senate,Republican Party
+31,Pat Roberts,Kansas,@SenPatRoberts,https://www.facebook.com/SenPatRoberts,Senate,Republican Party
+90,Patrick Leahy,Vermont,@SenatorLeahy,https://www.facebook.com/SenatorPatrickLeahy,Senate,Democratic Party
+75,Patrick Toomey,Pennsylvania,@SenToomey,https://www.facebook.com/senatortoomey,Senate,Republican Party
+93,Patty Murray,Washington,@PattyMurray,https://www.facebook.com/pattymurray,Senate,Democratic Party
+33,Rand Paul,Kentucky,@RandPaul,https://www.facebook.com/SenatorRandPaul,Senate,Republican Party
+14,Richard Blumenthal,Connecticut,@SenBlumenthal,https://www.facebook.com/SenBlumenthal,Senate,Democratic Party
+66,Richard Burr,North Carolina,@SenatorBurr,https://www.facebook.com/SenatorRichardBurr,Senate,Republican Party
+26,Richard Durbin,Illinois,@SenatorDurbin,https://www.facebook.com/SenatorDurbin,Senate,Democratic Party
+1,Richard Shelby,Alabama,@SenShelby,https://www.facebook.com/RichardShelby,Senate,Republican Party
+18,Rick Scott,Florida,@ScottforFlorida,https://www.facebook.com/RickScottSenOffice/,Senate,Republican Party
+69,Rob Portman,Ohio,@senrobportman,https://www.facebook.com/robportman,Senate,Republican Party
+59,Robert Menendez,New Jersey,@SenatorMenendez,https://www.facebook.com/senatormenendez,Senate,Democratic Party
+47,Roger Wicker,Mississippi,@SenatorWicker,https://www.facebook.com/wicker,Senate,Republican Party
+97,Ron Johnson,Wisconsin,@SenRonJohnson,https://www.facebook.com/senronjohnson,Senate,Republican Party
+73,Ron Wyden,Oregon,@RonWyden,https://www.facebook.com/wyden,Senate,Democratic Party
+50,Roy Blunt,Missouri,@RoyBlunt,https://www.facebook.com/SenatorBlunt,Senate,Republican Party
+77,Sheldon Whitehouse,Rhode Island,@SenWhitehouse,https://www.facebook.com/SenatorWhitehouse,Senate,Democratic Party
+96,Shelley Moore Capito,West Virginia,@SenCapito,https://www.facebook.com/senshelley,Senate,Republican Party
+70,Sherrod Brown,Ohio,@SenSherrodBrown,https://www.facebook.com/sherrod,Senate,Democratic Party
+52,Steve Daines,Montana,@SteveDaines,https://www.facebook.com/SteveDainesMT,Senate,Republican Party
+38,Susan Collins,Maine,@SenatorCollins,https://www.facebook.com/susancollins,Senate,Republican Party
+98,Tammy Baldwin,Wisconsin,@SenatorBaldwin,https://www.facebook.com/senatortammybaldwin,Senate,Democratic Party
+25,Tammy Duckworth,Illinois,SenDuckworth,https://www.facebook.com/SenDuckworth,Senate,Democratic Party
+85,Ted Cruz,Texas,@SenTedCruz,https://www.facebook.com/SenatorTedCruz,Senate,Republican Party
+65,Thom Tillis,North Carolina,@SenThomTillis,https://www.facebook.com/SenatorThomTillis,Senate,Republican Party
+16,Thomas Carper,Delaware,@SenatorCarper,https://www.facebook.com/tomcarper,Senate,Democratic Party
+92,Tim Kaine,Virginia,@timkaine,https://www.facebook.com/SenatorKaine,Senate,Democratic Party
+79,Tim Scott,South Carolina,@SenatorTimScott,https://www.facebook.com/SenatorTimScott,Senate,Republican Party
+46,Tina Smith,Minnesota,@SenTinaSmith,https://www.facebook.com/USSenTinaSmith/,Senate,Democratic Party
+28,Todd Young,Indiana,SenToddYoung,https://www.facebook.com/RepToddYoung,Senate,Republican Party
+7,Tom Cotton,Arkansas,@SenTomCotton,https://www.facebook.com/SenatorTomCotton,Senate,Republican Party
+61,Tom Udall,New Mexico,@SenatorTomUdall,https://www.facebook.com/senatortomudall,Senate,Democratic Party
