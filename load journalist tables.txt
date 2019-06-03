@@ -1,0 +1,25 @@
+drop table if exists journalist_table;
+drop table if exists journalist_tweets;
+drop table if exists journalist_bigrams; 
+
+create table journalist_table(
+	custom_id int,
+	twitter_handle varchar(255),
+	fullname varchar(255),
+	newssource varchar(255),
+	party varchar(255),
+	lean varchar(255)
+);
+
+create table journalist_tweets(
+	custom_id int,
+	twitter_handle varchar(255),
+	tweet varchar
+);
+
+create table journalist_bigrams(
+	custom_id int,
+	twitter_handle varchar(255),
+	bigram varchar
+);
+

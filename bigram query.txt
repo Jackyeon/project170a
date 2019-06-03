@@ -1,0 +1,24 @@
+select newssource, count(*) from journalist_table
+group by newssource;
+
+select * from twitter_bigrams tb
+join congressional_table c on c.custom_id = tb.custom_id
+where bigram in
+
+(select bigram from twitter_bigrams
+group by bigram
+order by count(*) desc
+limit 200);
+
+
+select * from journalist_bigrams jb
+join journalist_table j on j.custom_id = jb.custom_id
+where bigram in
+
+(select bigram from twitter_bigrams
+group by bigram
+order by count(*) desc
+limit 200);
+
+select twitter_handle,count(*) from journalist_tweets
+group by twitter_handle

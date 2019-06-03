@@ -1,6 +1,12 @@
 drop table if exists congressional_table;
 drop table if exists twitter_data;
 drop table if exists twitter_tokens;
+drop table if exists twitter_bigrams;
+drop table if exists twitter_trigrams;
+drop table if exists twitter_fourgrams;
+
+
+
 
 Create table congressional_table(
 	custom_id int,
@@ -24,3 +30,20 @@ Create table twitter_tokens(
 );
 
 
+Create table twitter_bigrams(
+	custom_id int,
+	twitter_handle,
+	bigram
+);
+
+Create table twitter_trigrams(
+	custom_id int,
+	twitter_handle,
+	trigram
+);
+
+Create table twitter_fourgrams(
+	custom_id int,
+	twitter_handle,
+	fourgram
+);
