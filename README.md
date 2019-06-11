@@ -1,1 +1,1 @@
-# Final Project Report for Stats 170AB, Winter/Spring 2019
+# Language and Partisanship: Predicting Partisanship with Tweets 
