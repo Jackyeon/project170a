@@ -1,4 +1,5 @@
 # Language and Partisanship: Predicting Partisanship with Tweets 
+Run models with the final_notebook.ipynb notebook
 
 | File                              | Description                                                        |
 |-----------------------------------|--------------------------------------------------------------------|
